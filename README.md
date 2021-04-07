@@ -6,15 +6,23 @@
   - [ ] `<head>`, 
   - [ ] `<body>`, 
   - [ ] `<script>`
+- [ ] HTML layout tags
+  - [ ] `<main>`
+  - [ ] `<aside>`
+  - [ ] `<nav>`
+  - [ ] `<header>`
+  - [ ] `<footer>`
 - [ ] HTML Elements and their attributes:
   - [ ] Documents `<!DOCTYPE>`,
   - [ ] Headings `<h1>, <h2>`,
   - [ ] Paragraphs `<p>`,
-  - [ ] Lists `<li>, <ul>`
+  - [ ] Lists `<li>, <ul>, <dl>`
   - [ ] Links `<a>`
   - [ ] Images `<img>`
-  - [ ] Semantic HTML `<article>, <main>, <navigation>`
+  - [ ] Semantic HTML `<article>, <address>, <navigation>`
   - [ ] Tables `<table>`
+  - [ ] Dialogs/Modal popups `<dialog>`
+  - [ ] Accordion `<details>, <summary>`
 - [ ] HTML Formatting
   - [ ] `<b>` - Bold text
   - [ ] `<strong>` - Important text
