@@ -1,8 +1,8 @@
 ## HTML
 - [ ] HTML main tags 
-  - [ ] `<html>`, 
-  - [ ] `<head>`, 
-  - [ ] `<body>`, 
+  - [ ] `<html>` 
+  - [ ] `<head>` 
+  - [ ] `<body>` 
   - [ ] `<script>`
 - [ ] HTML layout tags
   - [ ] `<main>`
@@ -11,9 +11,9 @@
   - [ ] `<header>`
   - [ ] `<footer>`
 - [ ] HTML Elements and their attributes:
-  - [ ] Documents `<!DOCTYPE>`,
-  - [ ] Headings `<h1>, <h2>`,
-  - [ ] Paragraphs `<p>`,
+  - [ ] Documents `<!DOCTYPE>`
+  - [ ] Headings `<h1>, <h2>`
+  - [ ] Paragraphs `<p>`
   - [ ] Lists `<li>, <ul>, <dl>`
   - [ ] Links `<a>`
   - [ ] Images `<img>`
@@ -238,8 +238,8 @@
 1. **PROJECT** Build a portfolio web page using the skills you learnt so far - JS, HTML, CSS. The web page should have the following: 
     1. Add your name, photo, bio using semantic HTML 
     1. Setup sections for projects. We will fill these projects as we go. The projects will have an image, description and a link. Set these up with [lorem ipsum text](https://loremipsum.io/) for now. 
-1. **SKILLS** Learn git and version control. [Here's an instructional video](https://youtu.be/8JJ101D3knE)
-1.**PROJECT**
+1. **SKILLS** [Learn git and version control.](https://youtu.be/8JJ101D3knE).
+1. **PROJECT**
    1. Add your portfolio to GitHub.
    2. Step Up Assignment: Setup Github pages to host your portfolio. [Here's an instructional video](https://www.youtube.com/watch?v=794yrQWAOD8&ab_channel=iEatWebsites)
 1. **SKILLS** Step up your JS and CSS knowledge
