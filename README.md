@@ -1,5 +1,3 @@
-# Checklist:
- 
 ## HTML
 - [ ] HTML main tags 
   - [ ] `<html>`, 
