@@ -52,6 +52,7 @@
    - [ ] Letter-spacing
    - [ ] Word-spacing
    - [ ] Background-color
+   - [ ] Background-image
    - [ ] Margin
    - [ ] Padding
    - [ ] Border
@@ -69,8 +70,9 @@
    - [ ] Position
      - [ ] relative
      - [ ] absolute
+     - [ ] fixed
    - [ ] Display
-     - [ ] block
+     - [ ] block          
      - [ ] none
    - [ ] [type="text"]
    - [ ] class vs id
@@ -79,7 +81,8 @@
    - [ ] animations 
    - [ ] flexbox 
    - [ ] grid 
-   - [ ] responsive sites
+   - [ ] media query to build responsive sites
+   - [ ] CSS Specificity
 
 ## JavaScript
 
@@ -162,6 +165,7 @@
    - [ ] `document.getElementById`
    - [ ] `document.getElementsByTagName`
    - [ ] `document.getElementsByClassName`
+   - [ ] `document.getElementsByName`
    - [ ] `document.querySelector`
    - [ ] `document.querySelectorAll`
    - [ ] `.createElement`
@@ -182,10 +186,11 @@
   - [ ] Scopes
   - [ ] Hoisting
   - [ ] Event bubbling
+  - [ ] Event Capturing
   - [ ] Promises
   - [ ] Callbacks
   - [ ] async / await
-  - [ ] AJAX
+  - [ ] AJAX (XMLHttpRequest)
   - [ ] Making API calls using `fetch`, `axios`
   - [ ] Event loop
   - [ ] Closures
@@ -209,6 +214,7 @@
    1. [ ] CRUD operations
    1. [ ] What are cookies? 
            1. [ ] Getting and setting cookies
+   1. [ ] What is local storage?
    1. [ ] What is session storage?
    1. [ ] How does a web browser work? 
    1. [ ] What is server vs client?
@@ -217,6 +223,7 @@
    1. [ ] What is web hosting?
    1. [ ] Browser Dev tools
    1. [ ] CORS and how to get past CORS?
+   1. [ ] ARIA - Accessibility
 
 ## Step Up
 #### Front end framework: 
