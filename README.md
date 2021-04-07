@@ -1,7 +1,6 @@
 ## Checklist:
 
-1. HTML
-
+1. [ ] HTML
 - [ ] HTML main tags 
   - [ ] `<html>`, 
   - [ ] `<head>`, 
@@ -71,7 +70,6 @@
    - [ ] class vs id
 
 **Step up CSS** 
-
    1. [ ] animations 
    2. [ ] flexbox 
    3. [ ] grid 
