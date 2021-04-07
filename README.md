@@ -1,6 +1,6 @@
-## Checklist:
-
-1. [ ] HTML
+# Checklist:
+ 
+## HTML
 - [ ] HTML main tags 
   - [ ] `<html>`, 
   - [ ] `<head>`, 
@@ -28,7 +28,7 @@
 - [ ] HTML form elements
 
 
-2. [ ] CSS
+## CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
    - [ ] CSS Selectors
    - [ ] Color
@@ -69,14 +69,15 @@
    - [ ] [type="text"]
    - [ ] class vs id
 
-**Step up CSS** 
-   1. [ ] animations 
-   2. [ ] flexbox 
-   3. [ ] grid 
-   4. [ ] responsive sites
+#### Step up CSS 
+   - [ ] animations 
+   - [ ] flexbox 
+   - [ ] grid 
+   - [ ] responsive sites
 
-3. [ ] JavaScript
-   1. [ ] **Fundamentals**
+## JavaScript
+
+#### Fundamentals
    - [ ] Adding JavaScript to an HTML page using `<script>`
    - [ ] `alert`
    - [ ] `console.log`
@@ -85,45 +86,45 @@
    - [ ] Data types - String, Boolean, Number, null, undefined
    - [ ] `typeof` operator
    - [ ] String functions - concatenation - template strings - `.length` - `.toUpperCase, .toLowerCase` - `subString` - `split`,
-   - [ ] Operators - 
-      - [ ]`+`
-      - [ ] `-`
-      - [ ] `/`
-      - [ ] ` *`
-      - [ ] `- `
-      - [ ] `++` 
-      - [ ] `--`
-      - [ ] `-`
-      - [ ] `=`
-      - [ ] `- `
-      - [ ] `<`
-      - [ ] `>` 
-      - [ ] `<=`
-      - [ ] `>=` 
-      - [ ] `==` 
-      - [ ] `===`
-      - [ ] `&&` 
-      - [ ] `||` 
-      - [ ] `Ternary operators ? , :`
+   - [ ] Operators
+        - [ ] `+`
+        - [ ] `-`
+        - [ ] `/`
+        - [ ] ` *`
+        - [ ] `- `
+        - [ ] `++` 
+        - [ ] `--`
+        - [ ] `-`
+        - [ ] `=`
+        - [ ] `- `
+        - [ ] `<`
+        - [ ] `>` 
+        - [ ] `<=`
+        - [ ] `>=` 
+        - [ ] `==` 
+        - [ ] `===`
+        - [ ] `&&` 
+        - [ ] `||` 
+        - [ ] `Ternary operators ? , :`
    - [ ] Loops
      - [ ] `for`
      - [ ] `while`
    - [ ] Conditionals
      - [ ] `if... else`
      - [ ] `switch`
-   - [ ] Data structures: Array
-     - [ ] Accessing elements
-     - [ ] Looping through elements
-       - [ ] `map`
-       - [ ] `forEach`
-     - [ ] `splice`
-     - [ ] `slice`
-     - [ ] `filter`
-     - [ ] `push`, `pop`
-     - [ ] `shift`, `unshift`
-     - [ ] `isArray`
-     - [ ] `indexOf`
-   - [ ] Data structures: Object
+ - [ ] Array
+    - [ ] Accessing elements
+    - [ ] Looping through elements         
+        - [ ] `map` 
+        - [ ] `forEach`
+    - [ ] `splice`
+    - [ ] `slice`
+    - [ ] `filter`
+    - [ ] `push`, `pop`
+    - [ ] `shift`, `unshift`
+    - [ ] `isArray`
+    - [ ] `indexOf`
+- [ ] Object
      - [ ] Accessing properties
      - [ ] Object destructuring
      - [ ] Looping through elements
@@ -151,7 +152,7 @@
      - [ ] `constructor()`
    - [ ] `setTimeout`
 
-   2. [ ] **Web page and JavaScript**
+#### Web page and JavaScript
    - [ ] `document.getElementById`
    - [ ] `document.getElementsByTagName`
    - [ ] `document.getElementsByClassName`
@@ -169,26 +170,27 @@
      - [ ] `.removeEventListener`
      - [ ] `event.preventDefault`
 
-   3. [ ] **Step up JavaScript**
-      - [ ] bind, call, apply
-      - [ ] Scopes
-      - [ ] Hoisting
-      - [ ] Event bubbling
-      - [ ] Promises
-      - [ ] Callbacks
-      - [ ] async / await
-      - [ ] AJAX
-      - [ ] Making API calls using `fetch`, `axios`
-      - [ ] Event loop
-      - [ ] Closures
-      - [ ] Service Workers
-      - [ ] [Browser events](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/HowToHandleEvents.MD)
-      - [ ] Forms
-          - Form properties and methods
-          - Form events: focus, blur, submit
-          - [Form validation](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/FormValidation.MD)
+#### Step up JavaScript
 
-4. [ ] Web fundamentals
+  - [ ] `bind`, `call`, `apply`
+  - [ ] Scopes
+  - [ ] Hoisting
+  - [ ] Event bubbling
+  - [ ] Promises
+  - [ ] Callbacks
+  - [ ] async / await
+  - [ ] AJAX
+  - [ ] Making API calls using `fetch`, `axios`
+  - [ ] Event loop
+  - [ ] Closures
+  - [ ] Service Workers
+  - [ ] [Browser events](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/HowToHandleEvents.MD)
+  - [ ] Forms
+      - Form properties and methods
+      - Form events: focus, blur, submit
+      - [Form validation](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/FormValidation.MD)
+
+#### Web fundamentals
    1.  [ ] [How does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
    1.  [ ] [HTTP basics](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
        - [ ] headers
@@ -210,15 +212,18 @@
    1. [ ] Browser Dev tools
    1. [ ] CORS and how to get past CORS?
 
-5. [ ] Step up: Pick a stack (Front end vs back end)
+## Step Up
+#### Front end framework: 
+- [ ] ReactJS
 
-Depending on your interest and passion, you may want to focus on front end development or back end development. Front end development is the development of user interfaces, and uses technologies like HTML, CSS, JavaScript. When foccussing on front end development, you may want to focus on frameworks and libraries such as React, Redux, SASS. In 2021, a good set of libraries to learn is React, SASS <TODO>
-Back end development is the development of software that facilitates user interface such as building APIs and uses back end technologies such as NodeJS. For back-end development, you may want to focus on databases such as MongoDB and frameworks and libraries such as NodeJS, Express. In 2021, a good set of libraries to learn is <>
+#### Front end library:
+- [ ] Redux
 
-6. [ ] Front end framework.
+#### APIs:
+- [ ] GraphQL
 
 
-## Suggested learning process:
+## Suggested learning process
 
 1. **SKILLS** Learn the fundamentals from a resource of your choice: 
    1. HTML
