@@ -1,4 +1,4 @@
-## Bootcamp curriculum:
+## Checklist:
 
 1. HTML
 
@@ -28,8 +28,6 @@
 - [ ] HTML style attribute
 - [ ] HTML form elements
 
-**Step up HTML**
-> TODO
 
 2. [ ] CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
@@ -222,51 +220,39 @@ Back end development is the development of software that facilitates user interf
 6. [ ] Front end framework.
 
 
-## Bootcamp process:
+## Suggested learning process:
 
-1. *SKILLS*: Learn the fundamentals from a resource of your choice: 
+1. **SKILLS** Learn the fundamentals from a resource of your choice: 
    1. HTML
    1. CSS
    1. JavaScript.
-
-1. PROJECT: Build a portfolio web page using the skills you learnt so far - JS, HTML, CSS. The web page should have the following: 
+1. **PROJECT** Build a portfolio web page using the skills you learnt so far - JS, HTML, CSS. The web page should have the following: 
     1. Add your name, photo, bio using semantic HTML 
     1. Setup sections for projects. We will fill these projects as we go. The projects will have an image, description and a link. Set these up with [lorem ipsum text](https://loremipsum.io/) for now. 
-
-2. Learn git and version control. [Here's an instructional video](https://youtu.be/8JJ101D3knE)
-
-3) PROJECT:
+1. **SKILLS** Learn git and version control. [Here's an instructional video](https://youtu.be/8JJ101D3knE)
+1.**PROJECT**
    1. Add your portfolio to GitHub.
    2. Step Up Assignment: Setup Github pages to host your portfolio. [Here's an instructional video](https://www.youtube.com/watch?v=794yrQWAOD8&ab_channel=iEatWebsites)
-
-4) Step up your JS and CSS knowledge
-
-5) PROJECT: Make your portfolio mobile friendly and responsive.
-   
-6) PROJECT: Getting ready for job interviews
+1. **SKILLS** Step up your JS and CSS knowledge
+1. **PROJECT** Make your portfolio mobile friendly and responsive.
+1. **PROJECT** Getting ready for job interviews
     1. Practice interview questions on [InterviewCake](https://www.interviewcake.com/). 
    1. Practice interviews questions on [Leetcode](https://leetcode.com/). Start with easy and slowly work your way up.
-    
-7) Step up challenge - learn a front-end framework.
+1. **SKILLS** Step up challenge - learn a front-end framework.
    React, Vue and Angular are the top front-end frameworks in 2021. If you were to pick one, I would recommend [React](https://reactjs.org/). Lots of companies use React in production. 
-   
-
-8) PROJECT: Implement the framework. - build an inspiration. Add this to your portfolio. Tasks: 
+1. **PROJECT**: Implement the framework. - build an inspiration. Add this to your portfolio. Tasks: 
     1. Fetch an API of your choice. 
     2. Render data in your app. 
     3. Implement search functionality.
     4. Implement auto-complete functionality.
-   
-9) Step up challenge: Learn a library for the framework.
+1. **SKILLS** Step up challenge: Learn a library for the framework.
    1. Learn a state management library: Redux / React context
-    > TODO
     1. Learn a CSS library - SASS 
-
-10) Implement your next inspiration idea using the library. Add to your portfolio.
-11) Learn a testing framework : Build test coverage. Add to your portfolio.
-12) Get a freelance job using your portfolio.
-13) Find a mentor. Get feedback on your skills and portfolio.
-14) Step up challenge - learn the other side of stack(front-end vs back-end)
-15) Apply for a full time job. You are ready.
-16) Continue iterating.
-17) Prepare for interviews
+1. **PROJECT** Implement your next inspiration idea using the library. Add to your portfolio.
+3. **SKILLS** Learn a testing framework : Build test coverage. Add to your portfolio.
+4. **CAREER** Get a freelance job using your portfolio.
+5. **CAREER** Find a mentor. Get feedback on your skills and portfolio.
+6. **SKILLS** Step up challenge - learn the other side of stack(front-end vs back-end)
+7. **CAREER** Apply for a full time job. You are ready.
+8. **SKILLS** Continue iterating.
+9. **CAREER** Prepare for interviews
