@@ -79,6 +79,9 @@
 
 #### Step up CSS 
    - [ ] animations 
+     - [ ] transition property
+     - [ ] @keyframes
+     - [ ] animation property - `name`, `duration`, `timing-function`, `delay`, `iteration-count`, `direction` 
    - [ ] flexbox 
    - [ ] grid 
    - [ ] media query to build responsive sites
