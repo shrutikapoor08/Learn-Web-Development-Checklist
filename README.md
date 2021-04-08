@@ -1,38 +1,55 @@
-## HTML
+## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [ ] HTML main tags 
-  - [ ] `<html>` 
-  - [ ] `<head>` 
-  - [ ] `<body>` 
-  - [ ] `<script>`
-- [ ] HTML layout tags
-  - [ ] `<main>`
-  - [ ] `<aside>`
-  - [ ] `<nav>`
-  - [ ] `<header>`
-  - [ ] `<footer>`
-- [ ] HTML Elements and their attributes:
-  - [ ] Documents `<!DOCTYPE>`
-  - [ ] Headings `<h1>, <h2>`
-  - [ ] Paragraphs `<p>`
-  - [ ] Lists `<li>, <ul>, <dl>`
-  - [ ] Links `<a>`
-  - [ ] Images `<img>`
-  - [ ] Semantic HTML `<article>, <address>, <navigation>`
-  - [ ] Tables `<table>`
-  - [ ] Dialogs/Modal popups `<dialog>`
-  - [ ] Accordion `<details>, <summary>`
-- [ ] HTML Formatting
-  - [ ] `<b>` - Bold text
-  - [ ] `<strong>` - Important text
-  - [ ] `<small>` - Smaller text
-  - [ ] `<i>` - Italic text
-  - [ ] `<em>` - Emphasized text
-  - [ ] `<sub>` - Subscript text
-  - [ ] `<sup>` - superscript
-- [ ] HTML Comments `<!-- -->`
-- [ ] HTML style attribute
-- [ ] HTML form elements
+  - [ ] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
+  - [ ] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
+  - [ ] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
+  - [ ] `<script>` [Link](https://www.w3docs.com/learn-html/html-script-tag.html)
+  - [ ] `<style>` [Link](https://www.w3docs.com/learn-html/html-style-tag.html)
+  - [ ] `<link>` [Link](https://www.w3docs.com/learn-html/html-link-tag.html)
+  - [ ] `<meta>` [Link](https://www.w3docs.com/learn-html/html-meta-tag.html)
+  
+- [ ] HTML5 Structural / Semantic elements
+  - [ ] `<article>` [Link](https://www.w3docs.com/learn-html/html-article-tag.html)
+  - [ ] `<address>` [Link](https://www.w3docs.com/learn-html/html-address-tag.html)
+  - [ ] `<aside>` [Link](https://www.w3docs.com/learn-html/html-aside-tag.html)
+  - [ ] `<dialog>` [Link](https://www.w3docs.com/learn-html/html-dialog-tag.html)
+  - [ ] `<details>` [Link](https://www.w3docs.com/learn-html/html-details-tag.html)
+  - [ ] `<figure>` [Link](https://www.w3docs.com/learn-html/html-figure-tag.html)
+  - [ ] `<main>` [Link](https://www.w3docs.com/learn-html/html-main-tag.html)
+  - [ ] `<nav>` [Link](https://www.w3docs.com/learn-html/html-nav-tag.html)
+  - [ ] `<header>` [Link](https://www.w3docs.com/learn-html/html-header-tag.html)
+  - [ ] `<footer>` [Link](https://www.w3docs.com/learn-html/html-footer-tag.html)
+  - [ ] `<summary>` [Link](https://www.w3docs.com/learn-html/html-summary-tag.html)
 
+- [ ] HTML Elements and their attributes
+  - [ ] Documents `<!DOCTYPE>` [Link](https://www.w3docs.com/learn-html/html-doctype-declaration.html)
+  - [ ] Headings `<h1> - <h6>` [Link](https://www.w3docs.com/learn-html/html-h1-h6-tags.html)
+  - [ ] Paragraph `<p>` [Link](https://www.w3docs.com/learn-html/html-p-tag.html)
+  - [ ] Lists `<li>, <ul>, <dl>` [Link](https://www.w3docs.com/learn-html/html-lists.html)
+  - [ ] Links `<a>` [Link](https://www.w3docs.com/learn-html/html-a-tag.html)
+  - [ ] Images `<img>` [Link](https://www.w3docs.com/learn-html/html-images.html)
+  - [ ] Table `<table>`[Link](https://www.w3docs.com/learn-html/html-table.html)
+
+- [ ] HTML Formatting
+  - [ ] `<b>` - Bold text [Link](https://www.w3docs.com/learn-html/html-b-tag.html)
+  - [ ] `<strong>` - Important text [Link](https://www.w3docs.com/learn-html/html-strong-tag.html)
+  - [ ] `<small>` - Smaller text
+  - [ ] `<i>` - Italic text [Link](https://www.w3docs.com/learn-html/html-i-tag.html)
+  - [ ] `<em>` - Emphasized text [Link](https://www.w3docs.com/learn-html/html-em-tag.html)
+  - [ ] `<sub>` - Subscript [Link](https://www.w3docs.com/learn-html/html-sub-tag.html)
+  - [ ] `<sup>` - superscript [Link](https://www.w3docs.com/learn-html/html-sup-tag.html)
+  - [ ] `<pre>` - preformatted text [Link](https://www.w3docs.com/learn-html/html-pre-tag.html)
+- [ ] HTML Comments `<!-- -->` [Link](https://www.w3docs.com/learn-html/html-comments.html)
+- [ ] HTML forms [Link](https://www.w3docs.com/learn-html/html-form-tag.html)
+    - [ ] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
+  - [ ] `<textarea>` [Link](https://www.w3docs.com/learn-html/html-textarea-tag.html)
+  - [ ] `<button>` [Link](https://www.w3docs.com/learn-html/html-button-tag.html)
+  - [ ] `<select>` [Link](https://www.w3docs.com/learn-html/html-select-tag.html)
+  - [ ] `<option>` [Link](https://www.w3docs.com/learn-html/html-option-tag.html)
+  - [ ] `<fieldset>` [Link](https://www.w3docs.com/learn-html/html-fieldset-tag.html)
+  - [ ] `<label>` [Link](https://www.w3docs.com/learn-html/html-label-tag.html)
+  - [ ] `<legend>` [Link](https://www.w3docs.com/learn-html/html-legend-tag.html)
+    
 
 ## CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
