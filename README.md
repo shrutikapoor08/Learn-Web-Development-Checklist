@@ -209,11 +209,11 @@
        - [ ] response
        - [ ] verbs: PUT, POST, DELETE, PATCH, POST
    1.  [ ] What is an API?
-           1. [ ] What is REST API? 
-           2. [ ] What is GraphQL API? 
+       1. [ ] What is REST API? 
+       2. [ ] What is GraphQL API? 
    1. [ ] CRUD operations
    1. [ ] What are cookies? 
-           1. [ ] Getting and setting cookies
+      1. [ ] Getting and setting cookies
    1. [ ] What is local storage?
    1. [ ] What is session storage?
    1. [ ] How does a web browser work? 
@@ -221,11 +221,21 @@
    1. [ ] What is a domain name?
    1. [ ] What is DNS lookup?
    1. [ ] What is web hosting?
-   1. [ ] Browser Dev tools
-   1. [ ] CORS and how to get past CORS?
-   1. [ ] ARIA - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+   1. [ ] [Browser Dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+      1. Chrome Dev Tools
+        - [ ] [Debugging JavaScript](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers)
+        - [ ] [Inspect Network Activity](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
+        - [ ] [Load Performance](https://www.youtube.com/watch?v=5fLW5Q5ODiE&ab_channel=GoogleChromeDevelopers)        
+      2. Firefox Dev Tools
+        - [ ] [Inspecting the CSS Cascade](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)
+        - [ ] [Accessibility Tooling](https://www.youtube.com/watch?v=7mqqgIxX_NU&list=PLgjjGlfBflIRVUoHWywHeUtfblwMXK8oX&ab_channel=MozillaDeveloper)        
+   3. [ ] [What is CORS?](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+      - [ ] [Cross Origin Safe Requests](https://javascript.info/fetch-crossorigin)
+      - [ ] [Cross Origin Resource Sharing](https://web.dev/cross-origin-resource-sharing/)
+   4. [ ] ARIA - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
        - [ ] [Free Beginner Course by Google](https://www.udacity.com/course/web-accessibility--ud891)
        - [ ] [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+       - [ ] [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)
 
 ## Step Up
 #### Front end framework: 
