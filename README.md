@@ -294,3 +294,46 @@
 7. **CAREER** Apply for a full time job. You are ready.
 8. **SKILLS** Continue iterating.
 9. **CAREER** Prepare for interviews
+
+
+## Useful resources
+
+#### HTML
+
+- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [Learn HTML5 and CSS3 From Scratch](https://www.youtube.com/watch?v=mU6anWqZJcc)
+- [HTML and CSS for Beginners - Build a Website & Launch ONLINE](https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/)
+- [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+
+#### CSS
+
+- [CSS Tutorial - Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [CSS Full Course - Includes Flexbox and CSS Grid Tutorials](https://www.youtube.com/watch?v=ieTHC78giGQ)
+- [CSS Grid Course](https://www.youtube.com/watch?v=t6CBKf8K_Ac)
+- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+- [Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs)
+- [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+- [CSS Animation for Beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+
+#### JavaScript
+
+- [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript/)
+- [Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
+- [JavaScript Fundamentals](https://www.udemy.com/course/javascriptfundamentals/)
+- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+- [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
+
+#### Angular
+
+- [Angular official doc](https://angular.io/)
+- [Angular for Beginners Course](https://www.udemy.com/course/angular-for-beginners-course/)
+- [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)
+
+#### React
+
+- [React official doc](https://reactjs.org/)
+- [Full React Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+- [Code 15 React Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+- [React Tutorial](https://www.w3schools.com/react/)
