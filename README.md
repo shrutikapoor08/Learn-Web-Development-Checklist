@@ -243,7 +243,9 @@
    1. [ ] What is web hosting?
    1. [ ] Browser Dev tools
    1. [ ] CORS and how to get past CORS?
-   1. [ ] ARIA - Accessibility
+   1. [ ] ARIA - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+       - [ ] [Free Beginner Course by Google](https://www.udacity.com/course/web-accessibility--ud891)
+       - [ ] [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
 ## Step Up
 #### Front end framework: 
