@@ -312,3 +312,41 @@
 7. **CAREER** Apply for a full time job. You are ready.
 8. **SKILLS** Continue iterating.
 9. **CAREER** Prepare for interviews
+
+## UX for Web Developers
+
+1. **Software UX Designers use**
+
+UX designers use the following software for the designing. As a UI developer, you will get either the files of design or style guide. Do review them.
+
+1) Figma
+
+2) Sketch App (Works only on Mac)
+
+3) Photoshop
+
+ 2. **Colors**
+
+ As a web developer, you should know that the designers use HEXA values of the color code. If you want to use RGBA (Red Green Blue Alpha) in your code then you need to ask the designers to provide that
+
+ 3. **Units**
+
+ As a web developer, you should know that designers use `px` as default units while designing. If you are using `em` or `rem`, you need to discuss this with your designer and ask about the base font size. This base font size will help you to convert from `px` to `em/rem`
+
+ 4. **Consistency**
+
+As a web developer make sure that the designs have consistency in the size, colors, and UX. Eg: the font size and color of the headings on every page should be the same, the body's font size should be the same. 
+
+You should review the designs given by the designers to make sure the consistency is there.
+
+5. **Styleguide**
+
+If you have a big project ask your UX team to share the style guide. Style- guide is the information about the color palette, font size, heading style, etc. This becomes the base guidelines for developers and testers.
+
+6. **Informative States**
+
+While working on the forms it is important to ask the designers about the error, success, or informative states design. Most of the time UX folks miss these states.
+
+7. **Wireframes**
+
+It is important to have the wireframes to understand the flow of the user's journey. Wireframes are like blueprint of the application.
