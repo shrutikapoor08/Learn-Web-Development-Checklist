@@ -108,49 +108,49 @@
 
 #### Fundamentals
 
-    - [ ] JavaScript introduction [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
-   - [ ] Adding JavaScript to an HTML page using `<script>` [Link] (https://www.digitalocean.com/community/tutorials/html-script-tag)
-   - [ ] `console.log` [Link](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
-   - [ ] Comments [Link](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
-   - [ ] Variables [Beginner level](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Advanced level](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
+  - [ ] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
+   - [ ] Adding JavaScript to an HTML page using `script` [Article](https://www.digitalocean.com/community/tutorials/html-script-tag)
+   - [ ] `console.log` [Article](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
+   - [ ] Comments [Article](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
+   - [ ] Variables [Article](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Video](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
         - [ ] `var`
-        - [ ] `let` [Link](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
-        - [ ] `const` [Link](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
-   - [ ] Data types [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+        - [ ] `let` [Video](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
+        - [ ] `const` [Video](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
+   - [ ] Data types [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
         - [ ] String 
         - [ ] Boolean
         - [ ] Number 
         - [ ] null 
         - [ ] undefined
-   - [ ] `typeof` operator [Link](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
+   - [ ] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
    - [ ] String functions 
-        - [ ] concatenation 
-        - [ ] template strings 
-        - [ ] `length`
-        - [ ] `toUpperCase`
-        - [ ] `toLowerCase`
-        - [ ] `subString`
-        - [ ] `split`
-   - [ ] Operators
+        - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+        - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+        - [ ] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+        - [ ] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+        - [ ] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+        - [ ] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+        - [ ] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
+- [ ] Operators
+    - [ ] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
         - [ ] `+`
         - [ ] `-`
         - [ ] `/`
         - [ ] ` *`
-        - [ ] `- `
         - [ ] `++` 
         - [ ] `--`
-        - [ ] `-`
-        - [ ] `=`
-        - [ ] `- `
-        - [ ] `<`
-        - [ ] `>` 
-        - [ ] `<=`
-        - [ ] `>=` 
-        - [ ] `==` 
-        - [ ] `===`
-        - [ ] `&&` 
-        - [ ] `||` 
-        - [ ] `Ternary operators ? , :`
+        - [ ] `%`
+    - [ ] Assignment Operators [ Article ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)    
+        - [ ] `=` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
+    - [ ] `<`
+    - [ ] `>` 
+    - [ ] `<=`
+    - [ ] `>=` 
+    - [ ] `==` 
+    - [ ] `===`
+    - [ ] `&&` 
+    - [ ] `||` 
+    - [ ] `Ternary operators ? , :`
    - [ ] Loops
      - [ ] `for`
      - [ ] `while`
@@ -185,7 +185,7 @@
      - [ ] Anonymous functions
      - [ ] Arrow functions `() => { }`
      - [ ] IIFE - Immediately Invoked Function Expressions
-   - [ ] `this` keyword
+   - [ ] `this` keyword [Video series](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
    - [ ] Constructor functions
      - [ ] Instantiating a new object
      - [ ] Accessing properties and methods
