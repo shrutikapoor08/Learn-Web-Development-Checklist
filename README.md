@@ -238,8 +238,20 @@
        - [ ] [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)
 
 ## Step Up
-#### Front end framework: 
-- [ ] ReactJS
+#### Front end framework:
+
+#### React
+- [ ] Prerequisites [Link](https://www.taniarascia.com/getting-started-with-react/#prerequisites)
+- [ ] What is React? [Link](https://www.taniarascia.com/getting-started-with-react/#what-is-react)
+- [ ] Setup and Installation [Link](https://www.taniarascia.com/getting-started-with-react/#setup-and-installation)
+- [ ] JSX: JavaScript + XML [Link](https://www.taniarascia.com/getting-started-with-react/#jsx-javascript--xml)
+- [ ] Functional and Class Components [Link](https://www.taniarascia.com/getting-started-with-react/#components)
+- [ ] Props [Link](https://www.taniarascia.com/getting-started-with-react/#props)
+- [ ] State [Link](https://www.taniarascia.com/getting-started-with-react/#state)
+- [ ] Submitting Form [Link](https://www.taniarascia.com/getting-started-with-react/#submitting-form-data)
+- [ ] Pulling in API Data [Link](https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data)
+- [ ] Building and Deploying your React App [Link](https://www.taniarascia.com/getting-started-with-react/#building-and-deploying-a-react-app)
+- [ ] The Beginner's Guide to React by Kent C. Dodds [Video Tutorial](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 #### Front end library:
 - [ ] Redux
