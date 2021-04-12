@@ -97,7 +97,7 @@
 #### Step up CSS 
    - [ ] animations 
      - [ ] transition property
-     - [ ] @keyframes
+     - [ ] `@keyframes`
      - [ ] animation property - `name`, `duration`, `timing-function`, `delay`, `iteration-count`, `direction` 
    - [ ] flexbox 
    - [ ] grid 
@@ -107,14 +107,30 @@
 ## JavaScript
 
 #### Fundamentals
-   - [ ] Adding JavaScript to an HTML page using `<script>`
-   - [ ] `alert`
-   - [ ] `console.log`
-   - [ ] Comments
-   - [ ] Variables - `var`, `let`, `const`
-   - [ ] Data types - String, Boolean, Number, null, undefined
-   - [ ] `typeof` operator
-   - [ ] String functions - concatenation - template strings - `.length` - `.toUpperCase, .toLowerCase` - `subString` - `split`,
+
+    - [ ] JavaScript introduction [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
+   - [ ] Adding JavaScript to an HTML page using `<script>` [Link] (https://www.digitalocean.com/community/tutorials/html-script-tag)
+   - [ ] `console.log` [Link](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
+   - [ ] Comments [Link](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
+   - [ ] Variables [Beginner level](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Advanced level](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
+        - [ ] `var`
+        - [ ] `let` [Link](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
+        - [ ] `const` [Link](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
+   - [ ] Data types [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+        - [ ] String 
+        - [ ] Boolean
+        - [ ] Number 
+        - [ ] null 
+        - [ ] undefined
+   - [ ] `typeof` operator [Link](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
+   - [ ] String functions 
+        - [ ] concatenation 
+        - [ ] template strings 
+        - [ ] `length`
+        - [ ] `toUpperCase`
+        - [ ] `toLowerCase`
+        - [ ] `subString`
+        - [ ] `split`
    - [ ] Operators
         - [ ] `+`
         - [ ] `-`
@@ -180,6 +196,8 @@
    - [ ] ES6 Classes
      - [ ] `constructor()`
    - [ ] `setTimeout`
+   - [ ] `alert` [Link](https://www.educative.io/edpresso/how-to-use-the-alert-method-in-javascript)
+
 
 #### Web page and JavaScript
    - [ ] `document.getElementById`
