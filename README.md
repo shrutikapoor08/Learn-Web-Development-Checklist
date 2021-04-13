@@ -107,7 +107,6 @@
 ## JavaScript
 
 #### Fundamentals
-
   - [ ] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
    - [ ] Adding JavaScript to an HTML page using `script` [Article](https://www.digitalocean.com/community/tutorials/html-script-tag)
    - [ ] `console.log` [Article](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
@@ -150,25 +149,28 @@
     - [ ] `===`
     - [ ] `&&` 
     - [ ] `||` 
-    - [ ] `Ternary operators ? , :`
-   - [ ] Loops
-     - [ ] `for`
-     - [ ] `while`
+    - [ ] `Ternary operators ? , :` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+   - [ ] Loops [Article](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
+     - [ ] `for` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+     - [ ] `while` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
    - [ ] Conditionals
-     - [ ] `if... else`
-     - [ ] `switch`
- - [ ] Array
-    - [ ] Accessing elements
-    - [ ] Looping through elements         
-        - [ ] `map` 
-        - [ ] `forEach`
-    - [ ] `splice`
-    - [ ] `slice`
-    - [ ] `filter`
-    - [ ] `push`, `pop`
-    - [ ] `shift`, `unshift`
-    - [ ] `isArray`
-    - [ ] `indexOf`
+     - [ ] `if... else` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+     - [ ] `switch` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+ - [ ] Array [Article](https://www.javascripttutorial.net/javascript-array/)
+    - [ ] Accessing elements [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements)
+    - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+    - [ ] Looping through elements 
+        - [ ] `map` [Article](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
+        - [ ] `forEach` [Article](https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/)
+    - [ ] `slice` [Article](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/)
+    - [ ] `splice` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+    - [ ] `filter` [Video](https://egghead.io/lessons/javascript-filter-an-array-with-truthy-values?af=5buvlr)
+    - [ ] `push` [Video](https://egghead.io/lessons/javascript-add-elements-onto-an-array-with-push?af=5buvlr)
+    - [ ] `pop` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+    - [ ] `shift`, `unshift` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+    - [ ] `isArray` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+    - [ ] `indexOf` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) [Video](https://egghead.io/lessons/javascript-check-if-a-value-is-in-an-array-with-indexof?af=5buvlr)
+    - [ ] `from` [Video](https://egghead.io/lessons/javascript-converting-an-array-like-object-into-an-array-with-array-from?af=5buvlr)
 - [ ] Object
      - [ ] Accessing properties
      - [ ] Object destructuring
