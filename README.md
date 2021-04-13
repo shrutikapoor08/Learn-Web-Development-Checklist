@@ -235,25 +235,25 @@
   - [ ] Event loop
   - [ ] Closures
   - [ ] Service Workers
-  - [ ] [Browser events](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/HowToHandleEvents.MD)
+  - [ ] Browser events [Link](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/HowToHandleEvents.MD)
   - [ ] Forms
       - Form properties and methods
       - Form events: focus, blur, submit
-      - [Form validation](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/FormValidation.MD)
+      - Form validation [Link](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/FormValidation.MD)
 
 #### Web fundamentals
-   1.  [ ] [How does the web work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-   1.  [ ] [HTTP basics](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
+   1.  [ ] How does the web work? [Link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+   1.  [ ] HTTP basics [Link](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
        - [ ] headers
        - [ ] request
        - [ ] response
        - [ ] verbs: PUT, POST, DELETE, PATCH, POST
    1.  [ ] What is an API?
-           1. [ ] What is REST API? 
-           2. [ ] What is GraphQL API? 
+       1. [ ] What is REST API? 
+       2. [ ] What is GraphQL API? 
    1. [ ] CRUD operations
    1. [ ] What are cookies? 
-           1. [ ] Getting and setting cookies
+      1. [ ] Getting and setting cookies
    1. [ ] What is local storage?
    1. [ ] What is session storage?
    1. [ ] How does a web browser work? 
@@ -261,15 +261,27 @@
    1. [ ] What is a domain name?
    1. [ ] What is DNS lookup?
    1. [ ] What is web hosting?
-   1. [ ] Browser Dev tools
-   1. [ ] CORS and how to get past CORS?
-   1. [ ] ARIA - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-       - [ ] [Free Beginner Course by Google](https://www.udacity.com/course/web-accessibility--ud891)
-       - [ ] [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+   1. [ ] Browser Dev tools [Link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+      - [ ] Chrome Dev Tools [Link1](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Link2](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
+      - [ ] Firefox Dev Tools [Link1](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
+   1. [ ] What is CORS? [Link1](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) [Link2](https://javascript.info/fetch-crossorigin)   
+   1. [ ] ARIA - What is accessibility? [Link1](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [Link2](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)       
 
 ## Step Up
-#### Front end framework: 
-- [ ] ReactJS
+#### Front end framework:
+
+#### React
+- [ ] Prerequisites [Link](https://www.taniarascia.com/getting-started-with-react/#prerequisites)
+- [ ] What is React? [Link](https://www.taniarascia.com/getting-started-with-react/#what-is-react)
+- [ ] Setup and Installation [Link](https://www.taniarascia.com/getting-started-with-react/#setup-and-installation)
+- [ ] JSX: JavaScript + XML [Link](https://www.taniarascia.com/getting-started-with-react/#jsx-javascript--xml)
+- [ ] Functional and Class Components [Link](https://www.taniarascia.com/getting-started-with-react/#components)
+- [ ] Props [Link](https://www.taniarascia.com/getting-started-with-react/#props)
+- [ ] State [Link](https://www.taniarascia.com/getting-started-with-react/#state)
+- [ ] Submitting Form [Link](https://www.taniarascia.com/getting-started-with-react/#submitting-form-data)
+- [ ] Pulling in API Data [Link](https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data)
+- [ ] Building and Deploying your React App [Link](https://www.taniarascia.com/getting-started-with-react/#building-and-deploying-a-react-app)
+- [ ] The Beginner's Guide to React by Kent C. Dodds [Video Tutorial](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 #### Front end library:
 - [ ] Redux
@@ -314,3 +326,41 @@
 7. **CAREER** Apply for a full time job. You are ready.
 8. **SKILLS** Continue iterating.
 9. **CAREER** Prepare for interviews
+
+## UX for Web Developers
+
+1. **Software UX Designers use**
+
+UX designers use the following software for the designing. As a UI developer, you will get either the files of design or style guide. Do review them.
+
+1) Figma
+
+2) Sketch App (Works only on Mac)
+
+3) Photoshop
+
+ 2. **Colors**
+
+ As a web developer, you should know that the designers use HEXA values of the color code. If you want to use RGBA (Red Green Blue Alpha) in your code then you need to ask the designers to provide that
+
+ 3. **Units**
+
+ As a web developer, you should know that designers use `px` as default units while designing. If you are using `em` or `rem`, you need to discuss this with your designer and ask about the base font size. This base font size will help you to convert from `px` to `em/rem`
+
+ 4. **Consistency**
+
+As a web developer make sure that the designs have consistency in the size, colors, and UX. Eg: the font size and color of the headings on every page should be the same, the body's font size should be the same. 
+
+You should review the designs given by the designers to make sure the consistency is there.
+
+5. **Styleguide**
+
+If you have a big project ask your UX team to share the style guide. Style- guide is the information about the color palette, font size, heading style, etc. This becomes the base guidelines for developers and testers.
+
+6. **Informative States**
+
+While working on the forms it is important to ask the designers about the error, success, or informative states design. Most of the time UX folks miss these states.
+
+7. **Wireframes**
+
+It is important to have the wireframes to understand the flow of the user's journey. Wireframes are like blueprint of the application.
