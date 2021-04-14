@@ -212,15 +212,15 @@
        1. [ ] What is REST API? 
        2. [ ] What is GraphQL API? 
    1. [ ] CRUD operations
-   1. [ ] What are cookies? 
-      1. [ ] Getting and setting cookies
-   1. [ ] What is local storage?
-   1. [ ] What is session storage?
-   1. [ ] How does a web browser work? 
-   1. [ ] What is server vs client?
-   1. [ ] What is a domain name?
-   1. [ ] What is DNS lookup?
-   1. [ ] What is web hosting?
+   1. [ ] What are cookies? [Link](https://www.cloudflare.com/en-gb/learning/privacy/what-are-cookies/)
+      1. [ ] Getting and setting cookies [Link](https://flaviocopes.com/cookies/)
+   1. [ ] What is local storage? [Link](https://blog.logrocket.com/localstorage-javascript-complete-guide/)
+   1. [ ] What is session storage? [Link](https://www.javascripttutorial.net/web-apis/javascript-sessionstorage/)
+   1. [ ] How does a web browser work? [Link](https://www.youtube.com/watch?v=uE3UPEK26U0&ab_channel=MozillaHacks)
+   1. [ ] What is server vs client? [Link](https://www.cloudflare.com/en-gb/learning/serverless/glossary/client-side-vs-server-side/)
+   1. [ ] What is a domain name? [Link](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+   1. [ ] What is DNS lookup? [Link](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+   1. [ ] What is web hosting? [Link](https://www.youtube.com/watch?v=0hGK7qiQ6WA&ab_channel=GoDaddy)
    1. [ ] Browser Dev tools [Link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
       - [ ] Chrome Dev Tools [Link1](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Link2](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
       - [ ] Firefox Dev Tools [Link1](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
