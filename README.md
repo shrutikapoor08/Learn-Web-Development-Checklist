@@ -1,38 +1,55 @@
-## HTML
+## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [ ] HTML main tags 
-  - [ ] `<html>` 
-  - [ ] `<head>` 
-  - [ ] `<body>` 
-  - [ ] `<script>`
-- [ ] HTML layout tags
-  - [ ] `<main>`
-  - [ ] `<aside>`
-  - [ ] `<nav>`
-  - [ ] `<header>`
-  - [ ] `<footer>`
-- [ ] HTML Elements and their attributes:
-  - [ ] Documents `<!DOCTYPE>`
-  - [ ] Headings `<h1>, <h2>`
-  - [ ] Paragraphs `<p>`
-  - [ ] Lists `<li>, <ul>, <dl>`
-  - [ ] Links `<a>`
-  - [ ] Images `<img>`
-  - [ ] Semantic HTML `<article>, <address>, <navigation>`
-  - [ ] Tables `<table>`
-  - [ ] Dialogs/Modal popups `<dialog>`
-  - [ ] Accordion `<details>, <summary>`
-- [ ] HTML Formatting
-  - [ ] `<b>` - Bold text
-  - [ ] `<strong>` - Important text
-  - [ ] `<small>` - Smaller text
-  - [ ] `<i>` - Italic text
-  - [ ] `<em>` - Emphasized text
-  - [ ] `<sub>` - Subscript text
-  - [ ] `<sup>` - superscript
-- [ ] HTML Comments `<!-- -->`
-- [ ] HTML style attribute
-- [ ] HTML form elements
+  - [ ] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
+  - [ ] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
+  - [ ] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
+  - [ ] `<script>` [Link](https://www.w3docs.com/learn-html/html-script-tag.html)
+  - [ ] `<style>` [Link](https://www.w3docs.com/learn-html/html-style-tag.html)
+  - [ ] `<link>` [Link](https://www.w3docs.com/learn-html/html-link-tag.html)
+  - [ ] `<meta>` [Link](https://www.w3docs.com/learn-html/html-meta-tag.html)
+  
+- [ ] HTML5 Structural / Semantic elements
+  - [ ] `<article>` [Link](https://www.w3docs.com/learn-html/html-article-tag.html)
+  - [ ] `<address>` [Link](https://www.w3docs.com/learn-html/html-address-tag.html)
+  - [ ] `<aside>` [Link](https://www.w3docs.com/learn-html/html-aside-tag.html)
+  - [ ] `<dialog>` [Link](https://www.w3docs.com/learn-html/html-dialog-tag.html)
+  - [ ] `<details>` [Link](https://www.w3docs.com/learn-html/html-details-tag.html)
+  - [ ] `<figure>` [Link](https://www.w3docs.com/learn-html/html-figure-tag.html)
+  - [ ] `<main>` [Link](https://www.w3docs.com/learn-html/html-main-tag.html)
+  - [ ] `<nav>` [Link](https://www.w3docs.com/learn-html/html-nav-tag.html)
+  - [ ] `<header>` [Link](https://www.w3docs.com/learn-html/html-header-tag.html)
+  - [ ] `<footer>` [Link](https://www.w3docs.com/learn-html/html-footer-tag.html)
+  - [ ] `<summary>` [Link](https://www.w3docs.com/learn-html/html-summary-tag.html)
 
+- [ ] HTML Elements and their attributes
+  - [ ] Documents `<!DOCTYPE>` [Link](https://www.w3docs.com/learn-html/html-doctype-declaration.html)
+  - [ ] Headings `<h1> - <h6>` [Link](https://www.w3docs.com/learn-html/html-h1-h6-tags.html)
+  - [ ] Paragraph `<p>` [Link](https://www.w3docs.com/learn-html/html-p-tag.html)
+  - [ ] Lists `<li>, <ul>, <dl>` [Link](https://www.w3docs.com/learn-html/html-lists.html)
+  - [ ] Links `<a>` [Link](https://www.w3docs.com/learn-html/html-a-tag.html)
+  - [ ] Images `<img>` [Link](https://www.w3docs.com/learn-html/html-images.html)
+  - [ ] Table `<table>`[Link](https://www.w3docs.com/learn-html/html-table.html)
+
+- [ ] HTML Formatting
+  - [ ] `<b>` - Bold text [Link](https://www.w3docs.com/learn-html/html-b-tag.html)
+  - [ ] `<strong>` - Important text [Link](https://www.w3docs.com/learn-html/html-strong-tag.html)
+  - [ ] `<small>` - Smaller text
+  - [ ] `<i>` - Italic text [Link](https://www.w3docs.com/learn-html/html-i-tag.html)
+  - [ ] `<em>` - Emphasized text [Link](https://www.w3docs.com/learn-html/html-em-tag.html)
+  - [ ] `<sub>` - Subscript [Link](https://www.w3docs.com/learn-html/html-sub-tag.html)
+  - [ ] `<sup>` - superscript [Link](https://www.w3docs.com/learn-html/html-sup-tag.html)
+  - [ ] `<pre>` - preformatted text [Link](https://www.w3docs.com/learn-html/html-pre-tag.html)
+- [ ] HTML Comments `<!-- -->` [Link](https://www.w3docs.com/learn-html/html-comments.html)
+- [ ] HTML forms [Link](https://www.w3docs.com/learn-html/html-form-tag.html)
+    - [ ] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
+  - [ ] `<textarea>` [Link](https://www.w3docs.com/learn-html/html-textarea-tag.html)
+  - [ ] `<button>` [Link](https://www.w3docs.com/learn-html/html-button-tag.html)
+  - [ ] `<select>` [Link](https://www.w3docs.com/learn-html/html-select-tag.html)
+  - [ ] `<option>` [Link](https://www.w3docs.com/learn-html/html-option-tag.html)
+  - [ ] `<fieldset>` [Link](https://www.w3docs.com/learn-html/html-fieldset-tag.html)
+  - [ ] `<label>` [Link](https://www.w3docs.com/learn-html/html-label-tag.html)
+  - [ ] `<legend>` [Link](https://www.w3docs.com/learn-html/html-legend-tag.html)
+    
 
 ## CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
@@ -79,6 +96,9 @@
 
 #### Step up CSS 
    - [ ] animations 
+     - [ ] transition property
+     - [ ] `@keyframes`
+     - [ ] animation property - `name`, `duration`, `timing-function`, `delay`, `iteration-count`, `direction` 
    - [ ] flexbox 
    - [ ] grid 
    - [ ] media query to build responsive sites
@@ -87,52 +107,70 @@
 ## JavaScript
 
 #### Fundamentals
-   - [ ] Adding JavaScript to an HTML page using `<script>`
-   - [ ] `alert`
-   - [ ] `console.log`
-   - [ ] Comments
-   - [ ] Variables - `var`, `let`, `const`
-   - [ ] Data types - String, Boolean, Number, null, undefined
-   - [ ] `typeof` operator
-   - [ ] String functions - concatenation - template strings - `.length` - `.toUpperCase, .toLowerCase` - `subString` - `split`,
-   - [ ] Operators
+  - [ ] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
+   - [ ] Adding JavaScript to an HTML page using `script` [Article](https://www.digitalocean.com/community/tutorials/html-script-tag)
+   - [ ] `console.log` [Article](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
+   - [ ] Comments [Article](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
+   - [ ] Variables [Article](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Video](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
+        - [ ] `var`
+        - [ ] `let` [Video](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
+        - [ ] `const` [Video](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
+   - [ ] Data types [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+        - [ ] String 
+        - [ ] Boolean
+        - [ ] Number 
+        - [ ] null 
+        - [ ] undefined
+   - [ ] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
+   - [ ] String functions 
+        - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+        - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+        - [ ] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+        - [ ] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+        - [ ] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+        - [ ] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+        - [ ] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
+- [ ] Operators
+    - [ ] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
         - [ ] `+`
         - [ ] `-`
         - [ ] `/`
         - [ ] ` *`
-        - [ ] `- `
         - [ ] `++` 
         - [ ] `--`
-        - [ ] `-`
-        - [ ] `=`
-        - [ ] `- `
-        - [ ] `<`
-        - [ ] `>` 
-        - [ ] `<=`
-        - [ ] `>=` 
-        - [ ] `==` 
-        - [ ] `===`
-        - [ ] `&&` 
-        - [ ] `||` 
-        - [ ] `Ternary operators ? , :`
-   - [ ] Loops
-     - [ ] `for`
-     - [ ] `while`
+        - [ ] `%`
+    - [ ] Assignment Operators [ Article ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)    
+        - [ ] `=` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
+    - [ ] `<`
+    - [ ] `>` 
+    - [ ] `<=`
+    - [ ] `>=` 
+    - [ ] `==` 
+    - [ ] `===`
+    - [ ] `&&` 
+    - [ ] `||` 
+    - [ ] `Ternary operators ? , :` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+   - [ ] Loops [Article](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
+     - [ ] `for` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+     - [ ] `while` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
    - [ ] Conditionals
-     - [ ] `if... else`
-     - [ ] `switch`
- - [ ] Array
-    - [ ] Accessing elements
-    - [ ] Looping through elements         
-        - [ ] `map` 
-        - [ ] `forEach`
-    - [ ] `splice`
-    - [ ] `slice`
-    - [ ] `filter`
-    - [ ] `push`, `pop`
-    - [ ] `shift`, `unshift`
-    - [ ] `isArray`
-    - [ ] `indexOf`
+     - [ ] `if... else` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+     - [ ] `switch` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+ - [ ] Array [Article](https://www.javascripttutorial.net/javascript-array/)
+    - [ ] Accessing elements [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements)
+    - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+    - [ ] Looping through elements 
+        - [ ] `map` [Article](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
+        - [ ] `forEach` [Article](https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/)
+    - [ ] `slice` [Article](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/)
+    - [ ] `splice` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+    - [ ] `filter` [Video](https://egghead.io/lessons/javascript-filter-an-array-with-truthy-values?af=5buvlr)
+    - [ ] `push` [Video](https://egghead.io/lessons/javascript-add-elements-onto-an-array-with-push?af=5buvlr)
+    - [ ] `pop` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+    - [ ] `shift`, `unshift` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+    - [ ] `isArray` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+    - [ ] `indexOf` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) [Video](https://egghead.io/lessons/javascript-check-if-a-value-is-in-an-array-with-indexof?af=5buvlr)
+    - [ ] `from` [Video](https://egghead.io/lessons/javascript-converting-an-array-like-object-into-an-array-with-array-from?af=5buvlr)
 - [ ] Object
      - [ ] Accessing properties
      - [ ] Object destructuring
@@ -149,7 +187,7 @@
      - [ ] Anonymous functions
      - [ ] Arrow functions `() => { }`
      - [ ] IIFE - Immediately Invoked Function Expressions
-   - [ ] `this` keyword
+   - [ ] `this` keyword [Video series](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
    - [ ] Constructor functions
      - [ ] Instantiating a new object
      - [ ] Accessing properties and methods
@@ -160,6 +198,8 @@
    - [ ] ES6 Classes
      - [ ] `constructor()`
    - [ ] `setTimeout`
+   - [ ] `alert` [Link](https://www.educative.io/edpresso/how-to-use-the-alert-method-in-javascript)
+
 
 #### Web page and JavaScript
    - [ ] `document.getElementById`
@@ -286,3 +326,41 @@
 7. **CAREER** Apply for a full time job. You are ready.
 8. **SKILLS** Continue iterating.
 9. **CAREER** Prepare for interviews
+
+## UX for Web Developers
+
+1. **Software UX Designers use**
+
+UX designers use the following software for the designing. As a UI developer, you will get either the files of design or style guide. Do review them.
+
+1) Figma
+
+2) Sketch App (Works only on Mac)
+
+3) Photoshop
+
+ 2. **Colors**
+
+ As a web developer, you should know that the designers use HEXA values of the color code. If you want to use RGBA (Red Green Blue Alpha) in your code then you need to ask the designers to provide that
+
+ 3. **Units**
+
+ As a web developer, you should know that designers use `px` as default units while designing. If you are using `em` or `rem`, you need to discuss this with your designer and ask about the base font size. This base font size will help you to convert from `px` to `em/rem`
+
+ 4. **Consistency**
+
+As a web developer make sure that the designs have consistency in the size, colors, and UX. Eg: the font size and color of the headings on every page should be the same, the body's font size should be the same. 
+
+You should review the designs given by the designers to make sure the consistency is there.
+
+5. **Styleguide**
+
+If you have a big project ask your UX team to share the style guide. Style- guide is the information about the color palette, font size, heading style, etc. This becomes the base guidelines for developers and testers.
+
+6. **Informative States**
+
+While working on the forms it is important to ask the designers about the error, success, or informative states design. Most of the time UX folks miss these states.
+
+7. **Wireframes**
+
+It is important to have the wireframes to understand the flow of the user's journey. Wireframes are like blueprint of the application.
