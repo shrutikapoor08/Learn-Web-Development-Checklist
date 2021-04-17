@@ -171,34 +171,35 @@
     - [ ] `isArray` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
     - [ ] `indexOf` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) [Video](https://egghead.io/lessons/javascript-check-if-a-value-is-in-an-array-with-indexof?af=5buvlr)
     - [ ] `from` [Video](https://egghead.io/lessons/javascript-converting-an-array-like-object-into-an-array-with-array-from?af=5buvlr)
-- [ ] Object
-     - [ ] Accessing properties
-     - [ ] Object destructuring
-     - [ ] Looping through elements
-       - [ ] `for... of`
-       - [ ] `forEach`
-       - [ ] `.entries`, `.keys`
-       - [ ] `.create`
-       - [ ] `.hasOwnProperty`
-   - [ ] JSON objects
-     - [ ] `JSON.stringify`
-   - [ ] Functions
-     - [ ] Named functions
-     - [ ] Anonymous functions
-     - [ ] Arrow functions `() => { }`
-     - [ ] IIFE - Immediately Invoked Function Expressions
-   - [ ] `this` keyword [Video series](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
-   - [ ] Constructor functions
-     - [ ] Instantiating a new object
-     - [ ] Accessing properties and methods
-   - [ ] Prototypes
+- [ ] Object [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+     - [ ] Creating an object [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#creating_new_objects)
+     - [ ] Accessing properties [Article](https://dmitripavlutin.com/access-object-properties-javascript/)
+     - [ ] Object destructuring [Article](https://dmitripavlutin.com/javascript-object-destructuring/)
+     - [ ] `Object.keys` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+     - [ ] `Object.getOwnPropertyNames` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames)
+     - [ ] Looping through properties of an object 
+       - [ ] `for... of` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+       - [ ] `for...in` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+       - [ ] `forEach`, `.keys` [Article](https://masteringjs.io/tutorials/fundamentals/foreach-object)
+     - [ ] `.hasOwnProperty` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
+   - [ ] Functions [Article](https://javascript.info/function-basics) [Video](https://www.youtube.com/watch?v=N8ap4k_1QEQ&ab_channel=ProgrammingwithMosh)
+     - [ ] Named functions [Article](https://javascript.info/function-basics#function-naming)
+     - [ ] Function expressions [Article](https://javascript.info/function-expressions)
+     - [ ] Arrow functions `() => { }` [Article](https://javascript.info/arrow-functions-basics)
+     - [ ] IIFE - Immediately Invoked Function Expressions [Article](https://flaviocopes.com/javascript-iife/)
+   - [ ] `this` keyword [Video](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
+   - [ ] ES6 Classes [Video](https://www.youtube.com/watch?v=bq_jZY6Skto&ab_channel=freeCodeCamp.org)
+     - [ ] `constructor()`
+     - [ ] inherting classes
+   - [ ] Prototypal inheritance [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) [Article](https://www.educative.io/blog/understanding-and-using-prototypal-inheritance-in-javascript) [Video](https://egghead.io/lessons/javascript-understanding-prototypal-inheritance-within-javascript?af=5buvlr)
      - [ ] Inheriting properties
      - [ ] Extending properties
      - [ ] Accessing properties and methods
-   - [ ] ES6 Classes
-     - [ ] `constructor()`
-   - [ ] `setTimeout`
-   - [ ] `alert` [Link](https://www.educative.io/edpresso/how-to-use-the-alert-method-in-javascript)
+   - [ ] `setTimeout` [Video](https://www.youtube.com/watch?v=z9lJb4D3nJY&ab_channel=CodewithAniaKub%C3%B3w)
+   - [ ] `alert` [Article](https://www.educative.io/edpresso/how-to-use-the-alert-method-in-javascript)
+   - [ ] JSON objects [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+     - [ ] `JSON.stringify` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+     - [ ] `JSON.parse` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
 
 #### Web page and JavaScript
@@ -233,17 +234,17 @@
   - [ ] AJAX (XMLHttpRequest)
   - [ ] Making API calls using `fetch`, `axios`
   - [ ] Event loop
-  - [ ] Closures
+  - [ ] Closures [Article](https://eloquentjavascript.net/03_functions.html#h_hOd+yVxaku)
   - [ ] Service Workers
-  - [ ] Browser events [Link](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/HowToHandleEvents.MD)
+  - [ ] Browser events [Article](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/HowToHandleEvents.MD)
   - [ ] Forms
       - Form properties and methods
       - Form events: focus, blur, submit
-      - Form validation [Link](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/FormValidation.MD)
+      - Form validation [Article](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/FormValidation.MD)
 
 #### Web fundamentals
-   1.  [ ] How does the web work? [Link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-   1.  [ ] HTTP basics [Link](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
+   1.  [ ] How does the web work? [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+   1.  [ ] HTTP basics [Video](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
        - [ ] headers
        - [ ] request
        - [ ] response
@@ -261,27 +262,27 @@
    1. [ ] What is a domain name?
    1. [ ] What is DNS lookup?
    1. [ ] What is web hosting?
-   1. [ ] Browser Dev tools [Link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
-      - [ ] Chrome Dev Tools [Link1](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Link2](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
-      - [ ] Firefox Dev Tools [Link1](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
-   1. [ ] What is CORS? [Link1](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) [Link2](https://javascript.info/fetch-crossorigin)   
-   1. [ ] ARIA - What is accessibility? [Link1](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [Link2](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)       
+   1. [ ] Browser Dev tools [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+      - [ ] Chrome Dev Tools [Video](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Video](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
+      - [ ] Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
+   1. [ ] What is CORS? [Article](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) [Article](https://javascript.info/fetch-crossorigin)   
+   1. [ ] ARIA - What is accessibility? [Article](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [Video](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)       
 
 ## Step Up
 #### Front end framework:
 
 #### React
-- [ ] Prerequisites [Link](https://www.taniarascia.com/getting-started-with-react/#prerequisites)
-- [ ] What is React? [Link](https://www.taniarascia.com/getting-started-with-react/#what-is-react)
-- [ ] Setup and Installation [Link](https://www.taniarascia.com/getting-started-with-react/#setup-and-installation)
-- [ ] JSX: JavaScript + XML [Link](https://www.taniarascia.com/getting-started-with-react/#jsx-javascript--xml)
-- [ ] Functional and Class Components [Link](https://www.taniarascia.com/getting-started-with-react/#components)
-- [ ] Props [Link](https://www.taniarascia.com/getting-started-with-react/#props)
-- [ ] State [Link](https://www.taniarascia.com/getting-started-with-react/#state)
-- [ ] Submitting Form [Link](https://www.taniarascia.com/getting-started-with-react/#submitting-form-data)
-- [ ] Pulling in API Data [Link](https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data)
-- [ ] Building and Deploying your React App [Link](https://www.taniarascia.com/getting-started-with-react/#building-and-deploying-a-react-app)
-- [ ] The Beginner's Guide to React by Kent C. Dodds [Video Tutorial](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [ ] Prerequisites [Article](https://www.taniarascia.com/getting-started-with-react/#prerequisites)
+- [ ] What is React? [Article](https://www.taniarascia.com/getting-started-with-react/#what-is-react)
+- [ ] Setup and Installation [Article](https://www.taniarascia.com/getting-started-with-react/#setup-and-installation)
+- [ ] JSX: JavaScript + XML [Article](https://www.taniarascia.com/getting-started-with-react/#jsx-javascript--xml)
+- [ ] Functional and Class Components [Article](https://www.taniarascia.com/getting-started-with-react/#components)
+- [ ] Props [Article](https://www.taniarascia.com/getting-started-with-react/#props)
+- [ ] State [Article](https://www.taniarascia.com/getting-started-with-react/#state)
+- [ ] Submitting Form [Article](https://www.taniarascia.com/getting-started-with-react/#submitting-form-data)
+- [ ] Pulling in API Data [Article](https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data)
+- [ ] Building and Deploying your React App [Article](https://www.taniarascia.com/getting-started-with-react/#building-and-deploying-a-react-app)
+- [ ] The Beginner's Guide to React by Kent C. Dodds [Video](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 #### Front end library:
 - [ ] Redux
