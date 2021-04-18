@@ -94,16 +94,6 @@
    - [ ] [type="text"]
    - [ ] class vs id
 
-#### Step up CSS 
-   - [ ] animations 
-     - [ ] transition property
-     - [ ] `@keyframes`
-     - [ ] animation property - `name`, `duration`, `timing-function`, `delay`, `iteration-count`, `direction` 
-   - [ ] flexbox 
-   - [ ] grid 
-   - [ ] media query to build responsive sites
-   - [ ] CSS Specificity
-
 ## JavaScript
 
 #### Fundamentals
@@ -221,7 +211,43 @@
      - [ ] `.removeEventListener`
      - [ ] `event.preventDefault`
 
-#### Step up JavaScript
+
+#### Web fundamentals
+  - [ ] How does the web work? [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+  - [ ] How does a web browser work? [Article](https://medium.com/@monica1109/what-happens-when-i-type-any-url-in-the-browser-3719c6357da2)
+  - [ ] HTTP basics [Video](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
+     - [ ] headers
+     - [ ] request
+     - [ ] response
+     - [ ] verbs: PUT, POST, DELETE, PATCH, POST
+- [ ] What is an API?
+     - [ ] What is REST API? 
+     - [ ] What is GraphQL API? 
+  - [ ] CRUD operations
+  - [ ] What are cookies? 
+    - [ ] Getting and setting cookies
+  - [ ] What is local storage?
+  - [ ] What is session storage?
+  - [ ] What is server vs client?
+  - [ ] What is a domain name?
+  - [ ] What is DNS lookup?
+  - [ ] What is web hosting?
+  - [ ] What is CORS? [Article](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) [Article](https://javascript.info/fetch-crossorigin)   
+  - [ ] ARIA - What is accessibility? [Article](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [Video](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)       
+
+## Step Up
+
+#### CSS 
+   - [ ] animations 
+     - [ ] transition property
+     - [ ] `@keyframes`
+     - [ ] animation property - `name`, `duration`, `timing-function`, `delay`, `iteration-count`, `direction` 
+   - [ ] flexbox 
+   - [ ] grid 
+   - [ ] media query to build responsive sites
+   - [ ] CSS Specificity
+  
+#### JavaScript
 
   - [ ] `bind`, `call`, `apply`
   - [ ] Scopes
@@ -242,34 +268,6 @@
       - Form events: focus, blur, submit
       - Form validation [Article](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/FormValidation.MD)
 
-#### Web fundamentals
-   1.  [ ] How does the web work? [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-   1.  [ ] HTTP basics [Video](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
-       - [ ] headers
-       - [ ] request
-       - [ ] response
-       - [ ] verbs: PUT, POST, DELETE, PATCH, POST
-   1.  [ ] What is an API?
-       1. [ ] What is REST API? 
-       2. [ ] What is GraphQL API? 
-   1. [ ] CRUD operations
-   1. [ ] What are cookies? 
-      1. [ ] Getting and setting cookies
-   1. [ ] What is local storage?
-   1. [ ] What is session storage?
-   1. [ ] How does a web browser work? 
-   1. [ ] What is server vs client?
-   1. [ ] What is a domain name?
-   1. [ ] What is DNS lookup?
-   1. [ ] What is web hosting?
-   1. [ ] Browser Dev tools [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
-      - [ ] Chrome Dev Tools [Video](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Video](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
-      - [ ] Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
-   1. [ ] What is CORS? [Article](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) [Article](https://javascript.info/fetch-crossorigin)   
-   1. [ ] ARIA - What is accessibility? [Article](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [Video](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)       
-
-## Step Up
-#### Front end framework:
 
 #### React
 - [ ] Prerequisites [Article](https://www.taniarascia.com/getting-started-with-react/#prerequisites)
@@ -287,8 +285,50 @@
 #### Front end library:
 - [ ] Redux
 
-#### APIs:
+#### APIs
+- [ ] REST
 - [ ] GraphQL
+
+#### Debugging Tools
+- [ ] Browser Dev tools [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+      - [ ] Chrome Dev Tools [Video](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Video](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
+      - [ ] Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
+
+#### UX for Web Developers
+
+1. **Software UX Designers use**
+
+UX designers use the following software for the designing. As a UI developer, you will get either the files of design or style guide. Do review them.
+
+-  Figma
+-  Sketch App (Works only on Mac)
+-  Photoshop
+
+ 2. **Colors**
+
+ As a web developer, you should know that the designers use HEXA values of the color code. If you want to use RGBA (Red Green Blue Alpha) in your code then you need to ask the designers to provide that
+
+ 3. **Units**
+
+ As a web developer, you should know that designers use `px` as default units while designing. If you are using `em` or `rem`, you need to discuss this with your designer and ask about the base font size. This base font size will help you to convert from `px` to `em/rem`
+
+ 4. **Consistency**
+
+As a web developer make sure that the designs have consistency in the size, colors, and UX. Eg: the font size and color of the headings on every page should be the same, the body's font size should be the same. 
+
+You should review the designs given by the designers to make sure the consistency is there.
+
+5. **Styleguide**
+
+If you have a big project ask your UX team to share the style guide. Style- guide is the information about the color palette, font size, heading style, etc. This becomes the base guidelines for developers and testers.
+
+6. **Informative States**
+
+While working on the forms it is important to ask the designers about the error, success, or informative states design. Most of the time UX folks miss these states.
+
+7. **Wireframes**
+
+It is important to have the wireframes to understand the flow of the user's journey. Wireframes are like blueprint of the application.
 
 
 ## Suggested learning process
@@ -327,41 +367,3 @@
 7. **CAREER** Apply for a full time job. You are ready.
 8. **SKILLS** Continue iterating.
 9. **CAREER** Prepare for interviews
-
-## UX for Web Developers
-
-1. **Software UX Designers use**
-
-UX designers use the following software for the designing. As a UI developer, you will get either the files of design or style guide. Do review them.
-
-1) Figma
-
-2) Sketch App (Works only on Mac)
-
-3) Photoshop
-
- 2. **Colors**
-
- As a web developer, you should know that the designers use HEXA values of the color code. If you want to use RGBA (Red Green Blue Alpha) in your code then you need to ask the designers to provide that
-
- 3. **Units**
-
- As a web developer, you should know that designers use `px` as default units while designing. If you are using `em` or `rem`, you need to discuss this with your designer and ask about the base font size. This base font size will help you to convert from `px` to `em/rem`
-
- 4. **Consistency**
-
-As a web developer make sure that the designs have consistency in the size, colors, and UX. Eg: the font size and color of the headings on every page should be the same, the body's font size should be the same. 
-
-You should review the designs given by the designers to make sure the consistency is there.
-
-5. **Styleguide**
-
-If you have a big project ask your UX team to share the style guide. Style- guide is the information about the color palette, font size, heading style, etc. This becomes the base guidelines for developers and testers.
-
-6. **Informative States**
-
-While working on the forms it is important to ask the designers about the error, success, or informative states design. Most of the time UX folks miss these states.
-
-7. **Wireframes**
-
-It is important to have the wireframes to understand the flow of the user's journey. Wireframes are like blueprint of the application.
