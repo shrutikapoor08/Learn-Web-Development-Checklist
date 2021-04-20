@@ -53,46 +53,44 @@
 
 ## CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
-   - [ ] CSS Selectors
-   - [ ] Color
+   - [ ] CSS Selectors [Article](https://css-tricks.com/how-css-selectors-work/)
+   - [ ] Color [Article](https://css-tricks.com/almanac/properties/c/color/)
      - [ ] using hex eg: `#ff0000`
      - [ ] rgb eg: `rgb(0,0,255)`
      - [ ] common color names eg: `red, pink, brown`
-   - [ ] Font
+   - [ ] Font [Article](https://css-tricks.com/almanac/properties/f/font/)
      - [ ] Family
      - [ ] Size
      - [ ] Weight
-   - [ ] Text
-     - [ ] Decoration
-     - [ ] Transform
-   - [ ] Line-height
-   - [ ] Letter-spacing
-   - [ ] Word-spacing
-   - [ ] Background-color
-   - [ ] Background-image
-   - [ ] Margin
-   - [ ] Padding
-   - [ ] Border
-   - [ ] Width
-   - [ ] Height
-   - [ ] percentage, pixel, em
-   - [ ] Box model
-   - [ ] List
-     - [ ] style
-     - [ ] style-image
-   - [ ] Pseudo class
+   - [ ] Text-decoration [Article](https://css-tricks.com/almanac/properties/t/text-decoration/)
+   - [ ] Text-transform [Article](https://css-tricks.com/almanac/properties/t/text-transform/)
+   - [ ] Line-height [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+   - [ ] Letter-spacing [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+   - [ ] Word-spacing [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
+   - [ ] Background-color [Article](https://cssreference.io/property/background-color/)
+   - [ ] Background-image [Article](https://cssreference.io/property/background-image/)
+   - [ ] Margin [Article](https://css-tricks.com/almanac/properties/m/margin/) [Article](https://cssreference.io/property/margin/)
+   - [ ] Padding [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) [Article](https://cssreference.io/property/padding/)
+   - [ ] Border [Article](https://css-tricks.com/almanac/properties/b/border/)
+   - [ ] Width [Article](https://css-tricks.com/almanac/properties/w/width/)
+   - [ ] Height [Article](https://css-tricks.com/almanac/properties/h/height/)
+   - [ ] percentage, pixel, em 
+   - [ ] Box model [Article](https://css-tricks.com/the-css-box-model/)
+    - [ ] list-style [Article](https://css-tricks.com/almanac/properties/l/list-style/)
+   - [ ] Pseudo class [Article](https://css-tricks.com/pseudo-class-selectors/)
      - [ ] hover
      - [ ] active
      - [ ] visited
-   - [ ] Position
+   - [ ] Position [Article](https://css-tricks.com/almanac/properties/p/position/)
      - [ ] relative
      - [ ] absolute
      - [ ] fixed
-   - [ ] Display
+   - [ ] Display [Article](https://css-tricks.com/almanac/properties/d/display/)
      - [ ] block          
+     - [ ] inline          
+     - [ ] grid          
      - [ ] none
-   - [ ] [type="text"]
-   - [ ] class vs id
+   - [ ] class vs id [Article](https://css-tricks.com/the-difference-between-id-and-class/)
 
 ## JavaScript
 
@@ -245,7 +243,7 @@
    - [ ] flexbox 
    - [ ] grid 
    - [ ] media query to build responsive sites
-   - [ ] CSS Specificity
+   - [ ] CSS Specificity [Article](https://css-tricks.com/specifics-on-css-specificity/)
   
 #### JavaScript
 
