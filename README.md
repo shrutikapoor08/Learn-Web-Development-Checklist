@@ -220,10 +220,10 @@
      - [ ] request
      - [ ] response
      - [ ] verbs: PUT, POST, DELETE, PATCH, POST
-- [ ] What is an API?
-     - [ ] What is REST API? 
-     - [ ] What is GraphQL API? 
-  - [ ] CRUD operations
+- [ ] What is an API? [Video](https://www.youtube.com/watch?v=GZvSYJDk-us)
+     - [ ] What is REST API? [Article](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+     - [ ] What is GraphQL API? [Article](https://medium.com/devgorilla/what-is-graphql-f0902a959e4) [Podcast](https://frontendhappyhour.com/episodes/no-rest-with-quintessential-libations-graphql/)
+  - [ ] What are CRUD operations? [Article](https://www.codecademy.com/articles/what-is-crud)
   - [ ] What are cookies? 
     - [ ] Getting and setting cookies
   - [ ] What is local storage?
