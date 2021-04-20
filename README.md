@@ -220,18 +220,18 @@
      - [ ] request
      - [ ] response
      - [ ] verbs: PUT, POST, DELETE, PATCH, POST
-- [ ] What is an API?
-     - [ ] What is REST API? 
-     - [ ] What is GraphQL API? 
-  - [ ] CRUD operations
-  - [ ] What are cookies? 
-    - [ ] Getting and setting cookies
-  - [ ] What is local storage?
-  - [ ] What is session storage?
+- [ ] What is an API? [Video](https://www.youtube.com/watch?v=Yzx7ihtCGBs&ab_channel=CodeWithChris)
+     - [ ] What is REST API? [Video](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMCloud)
+     - [ ] What is GraphQL API? [Video](https://www.youtube.com/watch?v=VjXb3PRL9WI&ab_channel=LevelUpTuts)
+  - [ ] CRUD operations [Article](https://www.codecademy.com/articles/what-is-crud)
+  - [ ] What are cookies? [Article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)[Video](https://www.youtube.com/watch?v=rdVPflECed8&ab_channel=CreateaProWebsite)
+    - [ ] Getting and setting cookies [Article](https://javascript.info/cookie)
+  - [ ] What is local storage? [Article](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
+  - [ ] What is session storage? [Article](https://www.javascripttutorial.net/web-apis/javascript-sessionstorage/)
   - [ ] What is server vs client?
-  - [ ] What is a domain name?
-  - [ ] What is DNS lookup?
-  - [ ] What is web hosting?
+  - [ ] What is a domain name? [Video](https://www.youtube.com/watch?v=Y4cRx19nhJk&ab_channel=CreateaProWebsite)
+  - [ ] What is DNS lookup? [Video](https://www.youtube.com/watch?v=Rck3BALhI5c&ab_channel=Techquickie)
+  - [ ] What is web hosting? [Video](https://www.youtube.com/watch?v=H8oAvyqQwew&ab_channel=CreateaProWebsite)
   - [ ] What is CORS? [Article](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) [Article](https://javascript.info/fetch-crossorigin)   
   - [ ] ARIA - What is accessibility? [Article](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [Video](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)       
 
@@ -291,8 +291,8 @@
 
 #### Debugging Tools
 - [ ] Browser Dev tools [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
-      - [ ] Chrome Dev Tools [Video](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Video](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
-      - [ ] Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
+    - [ ] Chrome Dev Tools [Video](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Video](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
+    - [ ] Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
 
 #### UX for Web Developers
 
