@@ -53,46 +53,44 @@
 
 ## CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
-   - [ ] CSS Selectors
-   - [ ] Color
+   - [ ] CSS Selectors [Article](https://css-tricks.com/how-css-selectors-work/)
+   - [ ] Color [Article](https://css-tricks.com/almanac/properties/c/color/)
      - [ ] using hex eg: `#ff0000`
      - [ ] rgb eg: `rgb(0,0,255)`
      - [ ] common color names eg: `red, pink, brown`
-   - [ ] Font
+   - [ ] Font [Article](https://css-tricks.com/almanac/properties/f/font/)
      - [ ] Family
      - [ ] Size
      - [ ] Weight
-   - [ ] Text
-     - [ ] Decoration
-     - [ ] Transform
-   - [ ] Line-height
-   - [ ] Letter-spacing
-   - [ ] Word-spacing
-   - [ ] Background-color
-   - [ ] Background-image
-   - [ ] Margin
-   - [ ] Padding
-   - [ ] Border
-   - [ ] Width
-   - [ ] Height
-   - [ ] percentage, pixel, em
-   - [ ] Box model
-   - [ ] List
-     - [ ] style
-     - [ ] style-image
-   - [ ] Pseudo class
+   - [ ] Text-decoration [Article](https://css-tricks.com/almanac/properties/t/text-decoration/)
+   - [ ] Text-transform [Article](https://css-tricks.com/almanac/properties/t/text-transform/)
+   - [ ] Line-height [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+   - [ ] Letter-spacing [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+   - [ ] Word-spacing [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
+   - [ ] Background-color [Article](https://cssreference.io/property/background-color/)
+   - [ ] Background-image [Article](https://cssreference.io/property/background-image/)
+   - [ ] Margin [Article](https://css-tricks.com/almanac/properties/m/margin/) [Article](https://cssreference.io/property/margin/)
+   - [ ] Padding [Article](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) [Article](https://cssreference.io/property/padding/)
+   - [ ] Border [Article](https://css-tricks.com/almanac/properties/b/border/)
+   - [ ] Width [Article](https://css-tricks.com/almanac/properties/w/width/)
+   - [ ] Height [Article](https://css-tricks.com/almanac/properties/h/height/)
+   - [ ] percentage, pixel, em 
+   - [ ] Box model [Article](https://css-tricks.com/the-css-box-model/)
+    - [ ] list-style [Article](https://css-tricks.com/almanac/properties/l/list-style/)
+   - [ ] Pseudo class [Article](https://css-tricks.com/pseudo-class-selectors/)
      - [ ] hover
      - [ ] active
      - [ ] visited
-   - [ ] Position
+   - [ ] Position [Article](https://css-tricks.com/almanac/properties/p/position/)
      - [ ] relative
      - [ ] absolute
      - [ ] fixed
-   - [ ] Display
+   - [ ] Display [Article](https://css-tricks.com/almanac/properties/d/display/)
      - [ ] block          
+     - [ ] inline          
+     - [ ] grid          
      - [ ] none
-   - [ ] [type="text"]
-   - [ ] class vs id
+   - [ ] class vs id [Article](https://css-tricks.com/the-difference-between-id-and-class/)
 
 ## JavaScript
 
@@ -220,6 +218,7 @@
      - [ ] request
      - [ ] response
      - [ ] verbs: PUT, POST, DELETE, PATCH, POST
+<<<<<<< HEAD
 - [ ] What is an API? [Video](https://www.youtube.com/watch?v=Yzx7ihtCGBs&ab_channel=CodeWithChris)
      - [ ] What is REST API? [Video](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMCloud)
      - [ ] What is GraphQL API? [Video](https://www.youtube.com/watch?v=VjXb3PRL9WI&ab_channel=LevelUpTuts)
@@ -228,6 +227,16 @@
     - [ ] Getting and setting cookies [Article](https://javascript.info/cookie)
   - [ ] What is local storage? [Article](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
   - [ ] What is session storage? [Article](https://www.javascripttutorial.net/web-apis/javascript-sessionstorage/)
+=======
+- [ ] What is an API? [Video](https://www.youtube.com/watch?v=GZvSYJDk-us)
+     - [ ] What is REST API? [Article](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+     - [ ] What is GraphQL API? [Article](https://medium.com/devgorilla/what-is-graphql-f0902a959e4) [Podcast](https://frontendhappyhour.com/episodes/no-rest-with-quintessential-libations-graphql/)
+  - [ ] What are CRUD operations? [Article](https://www.codecademy.com/articles/what-is-crud)
+  - [ ] What are cookies? 
+    - [ ] Getting and setting cookies
+  - [ ] What is local storage?
+  - [ ] What is session storage?
+>>>>>>> f2b26c3a0239ae15bed923c22da95e91b4dde54f
   - [ ] What is server vs client?
   - [ ] What is a domain name? [Video](https://www.youtube.com/watch?v=Y4cRx19nhJk&ab_channel=CreateaProWebsite)
   - [ ] What is DNS lookup? [Video](https://www.youtube.com/watch?v=Rck3BALhI5c&ab_channel=Techquickie)
@@ -245,7 +254,7 @@
    - [ ] flexbox 
    - [ ] grid 
    - [ ] media query to build responsive sites
-   - [ ] CSS Specificity
+   - [ ] CSS Specificity [Article](https://css-tricks.com/specifics-on-css-specificity/)
   
 #### JavaScript
 
