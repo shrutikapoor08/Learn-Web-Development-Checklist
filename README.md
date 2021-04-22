@@ -218,26 +218,13 @@
      - [ ] request
      - [ ] response
      - [ ] verbs: PUT, POST, DELETE, PATCH, POST
-<<<<<<< HEAD
 - [ ] What is an API? [Video](https://www.youtube.com/watch?v=Yzx7ihtCGBs&ab_channel=CodeWithChris)
-     - [ ] What is REST API? [Video](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMCloud)
-     - [ ] What is GraphQL API? [Video](https://www.youtube.com/watch?v=VjXb3PRL9WI&ab_channel=LevelUpTuts)
-  - [ ] CRUD operations [Article](https://www.codecademy.com/articles/what-is-crud)
-  - [ ] What are cookies? [Article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)[Video](https://www.youtube.com/watch?v=rdVPflECed8&ab_channel=CreateaProWebsite)
+     - [ ] What is REST API? [Video](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMCloud) [Article](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+     - [ ] What is GraphQL API? [Video](https://www.youtube.com/watch?v=VjXb3PRL9WI&ab_channel=LevelUpTuts) [Article](https://medium.com/devgorilla/what-is-graphql-f0902a959e4) [Podcast](https://frontendhappyhour.com/episodes/no-rest-with-quintessential-libations-graphql/)
+  - [ ] What are CRUD operations? [Article](https://www.codecademy.com/articles/what-is-crud)  - [ ] What are cookies? [Article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)[Video](https://www.youtube.com/watch?v=rdVPflECed8&ab_channel=CreateaProWebsite)
     - [ ] Getting and setting cookies [Article](https://javascript.info/cookie)
   - [ ] What is local storage? [Article](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
   - [ ] What is session storage? [Article](https://www.javascripttutorial.net/web-apis/javascript-sessionstorage/)
-=======
-- [ ] What is an API? [Video](https://www.youtube.com/watch?v=GZvSYJDk-us)
-     - [ ] What is REST API? [Article](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-     - [ ] What is GraphQL API? [Article](https://medium.com/devgorilla/what-is-graphql-f0902a959e4) [Podcast](https://frontendhappyhour.com/episodes/no-rest-with-quintessential-libations-graphql/)
-  - [ ] What are CRUD operations? [Article](https://www.codecademy.com/articles/what-is-crud)
-  - [ ] What are cookies? 
-    - [ ] Getting and setting cookies
-  - [ ] What is local storage?
-  - [ ] What is session storage?
->>>>>>> f2b26c3a0239ae15bed923c22da95e91b4dde54f
-  - [ ] What is server vs client?
   - [ ] What is a domain name? [Video](https://www.youtube.com/watch?v=Y4cRx19nhJk&ab_channel=CreateaProWebsite)
   - [ ] What is DNS lookup? [Video](https://www.youtube.com/watch?v=Rck3BALhI5c&ab_channel=Techquickie)
   - [ ] What is web hosting? [Video](https://www.youtube.com/watch?v=H8oAvyqQwew&ab_channel=CreateaProWebsite)
