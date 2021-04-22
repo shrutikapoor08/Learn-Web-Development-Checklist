@@ -363,3 +363,44 @@ It is important to have the wireframes to understand the flow of the user's jour
 7. **CAREER** Apply for a full time job. You are ready.
 8. **SKILLS** Continue iterating.
 9. **CAREER** Prepare for interviews
+
+
+## Tools & websites for Web Developers
+
+1. [Caniuse](https://caniuse.com/)
+
+2. [css grid playground](https://www.cssgridplayground.com/)
+
+3. [JSON Lint](https://jsonlint.com/)  
+
+4. [Image Placeholder](https://placeholder.com/)
+
+5. [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+
+6. [JSON Server](https://www.npmjs.com/package/json-server)
+
+7. [NPM](https://www.npmjs.com/)
+
+8. [MDN](https://developer.mozilla.org/en-US/)
+
+9. [Dev Docs](https://devdocs.io/) 
+
+10. [Page Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+11. [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
+
+12. [WAVE](https://wave.webaim.org/)  
+
+13. [ESLint](https://eslint.org/)
+
+14. [Stack Overflow](https://stackoverflow.com/)
+
+15. [GitHub](https://github.com/)
+
+16. [smashing magazine](http://smashingmagazine.com/)
+
+17. [Postman](https://www.postman.com)
+
+18. [Google Fonts](https://fonts.google.com/)
+
+19. [Color by Adobe](https://color.adobe.com/explore)
