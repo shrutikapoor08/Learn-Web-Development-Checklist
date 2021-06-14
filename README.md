@@ -243,7 +243,7 @@
 
 #### Web fundamentals
    1.  [ ] How does the web work? [Link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-   1.  [ ] HTTP basics [Link](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
+   1.  [ ] HTTP basics [Video](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
        - [ ] headers
        - [ ] request
        - [ ] response
@@ -256,14 +256,14 @@
       1. [ ] Getting and setting cookies [Link](https://flaviocopes.com/cookies/)
    1. [ ] What is local storage? [Link](https://blog.logrocket.com/localstorage-javascript-complete-guide/)
    1. [ ] What is session storage? [Link](https://www.javascripttutorial.net/web-apis/javascript-sessionstorage/)
-   1. [ ] How does a web browser work? [Link](https://www.youtube.com/watch?v=uE3UPEK26U0&ab_channel=MozillaHacks)
+   1. [ ] How does a web browser work? [Video](https://www.youtube.com/watch?v=uE3UPEK26U0&ab_channel=MozillaHacks)
    1. [ ] What is server vs client? [Link](https://www.cloudflare.com/en-gb/learning/serverless/glossary/client-side-vs-server-side/)
    1. [ ] What is a domain name? [Link](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
    1. [ ] What is DNS lookup? [Link](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-   1. [ ] What is web hosting? [Link](https://www.youtube.com/watch?v=0hGK7qiQ6WA&ab_channel=GoDaddy)
+   1. [ ] What is web hosting? [Video](https://www.youtube.com/watch?v=0hGK7qiQ6WA&ab_channel=GoDaddy)
    1. [ ] Browser Dev tools [Link](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
-      - [ ] Chrome Dev Tools [Link1](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Link2](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
-      - [ ] Firefox Dev Tools [Link1](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
+      - [ ] Chrome Dev Tools [Video](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) [Video](https://www.youtube.com/watch?v=e1gAyQuIFQo&ab_channel=GoogleChromeDevelopers)
+      - [ ] Firefox Dev Tools [Video](https://www.youtube.com/watch?v=Sp9ZfSvpf7A&ab_channel=MozillaDeveloper)   
    1. [ ] What is CORS? [Link1](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) [Link2](https://javascript.info/fetch-crossorigin)   
    1. [ ] ARIA - What is accessibility? [Link1](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [Link2](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&ab_channel=GoogleChromeDevelopers)       
 
@@ -281,7 +281,7 @@
 - [ ] Submitting Form [Link](https://www.taniarascia.com/getting-started-with-react/#submitting-form-data)
 - [ ] Pulling in API Data [Link](https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data)
 - [ ] Building and Deploying your React App [Link](https://www.taniarascia.com/getting-started-with-react/#building-and-deploying-a-react-app)
-- [ ] The Beginner's Guide to React by Kent C. Dodds [Video Tutorial](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [ ] The Beginner's Guide to React by Kent C. Dodds [Video](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 #### Front end library:
 - [ ] Redux
