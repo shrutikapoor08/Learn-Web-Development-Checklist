@@ -1,5 +1,6 @@
+
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [ ] HTML main tags 
+- [ ] HTML main tags [Playlist](https://www.youtube.com/playlist?list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3)
   - [ ] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
   - [ ] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
   - [ ] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
@@ -53,7 +54,7 @@
 
 ## CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
-   - [ ] CSS Selectors [Article](https://css-tricks.com/how-css-selectors-work/)
+   - [ ] CSS Selectors [Article](https://css-tricks.com/how-css-selectors-work/) [Video](https://youtu.be/qj20o5UQ3qI)
    - [ ] Color [Article](https://css-tricks.com/almanac/properties/c/color/)
      - [ ] using hex eg: `#ff0000`
      - [ ] rgb eg: `rgb(0,0,255)`
@@ -74,14 +75,14 @@
    - [ ] Border [Article](https://css-tricks.com/almanac/properties/b/border/)
    - [ ] Width [Article](https://css-tricks.com/almanac/properties/w/width/)
    - [ ] Height [Article](https://css-tricks.com/almanac/properties/h/height/)
-   - [ ] percentage, pixel, em 
-   - [ ] Box model [Article](https://css-tricks.com/the-css-box-model/)
+   - [ ] percentage, pixel, em [Video](https://youtu.be/fi81bovqxXI)
+   - [ ] Box model [Article](https://css-tricks.com/the-css-box-model/) [Video](https://youtu.be/M1xEi_BBW1I)
     - [ ] list-style [Article](https://css-tricks.com/almanac/properties/l/list-style/)
    - [ ] Pseudo class [Article](https://css-tricks.com/pseudo-class-selectors/)
      - [ ] hover
      - [ ] active
      - [ ] visited
-   - [ ] Position [Article](https://css-tricks.com/almanac/properties/p/position/)
+   - [ ] Position [Article](https://css-tricks.com/almanac/properties/p/position/) [Video](https://youtu.be/gD3G67oPg-w)
      - [ ] relative
      - [ ] absolute
      - [ ] fixed
@@ -95,12 +96,12 @@
 ## JavaScript
 
 #### Fundamentals
-  - [ ] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
+  - [ ] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript) [Video](https://youtu.be/papg2tsoFzg)
    - [ ] Adding JavaScript to an HTML page using `script` [Article](https://www.digitalocean.com/community/tutorials/html-script-tag)
    - [ ] `console.log` [Article](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
    - [ ] Comments [Article](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
    - [ ] Variables [Article](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Video](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
-        - [ ] `var`
+        - [ ] `var` [Video](https://youtu.be/dzEieWaOJE0)
         - [ ] `let` [Video](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
         - [ ] `const` [Video](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
    - [ ] Data types [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
@@ -109,6 +110,7 @@
         - [ ] Number 
         - [ ] null 
         - [ ] undefined
+        - [ ] Symbol [Video](https://youtu.be/4J5hnOCj69w)
    - [ ] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
    - [ ] String functions 
         - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
@@ -147,11 +149,12 @@
  - [ ] Array [Article](https://www.javascripttutorial.net/javascript-array/)
     - [ ] Accessing elements [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements)
     - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+    - [ ] Array Helper Methods [Article](https://guptstagram.medium.com/es6-array-helper-methods-54bec9066b9c)  [Video](https://youtu.be/R8rmfD9Y5-c)
     - [ ] Looping through elements 
         - [ ] `map` [Article](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
         - [ ] `forEach` [Article](https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/)
-    - [ ] `slice` [Article](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/)
-    - [ ] `splice` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+    - [ ] `slice` [Article](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/) [Video](https://youtu.be/t1qDSAUclzI)
+    - [ ] `splice` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) [Video](https://youtu.be/t1qDSAUclzI)
     - [ ] `filter` [Video](https://egghead.io/lessons/javascript-filter-an-array-with-truthy-values?af=5buvlr)
     - [ ] `push` [Video](https://egghead.io/lessons/javascript-add-elements-onto-an-array-with-push?af=5buvlr)
     - [ ] `pop` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
@@ -159,9 +162,11 @@
     - [ ] `isArray` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
     - [ ] `indexOf` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) [Video](https://egghead.io/lessons/javascript-check-if-a-value-is-in-an-array-with-indexof?af=5buvlr)
     - [ ] `from` [Video](https://egghead.io/lessons/javascript-converting-an-array-like-object-into-an-array-with-array-from?af=5buvlr)
+    - [ ] Rest and Spread [Video](https://youtu.be/DoIGxx7P-ps)
 - [ ] Object [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
      - [ ] Creating an object [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#creating_new_objects)
      - [ ] Accessing properties [Article](https://dmitripavlutin.com/access-object-properties-javascript/)
+     - [ ] Reference and Value [Video](https://youtu.be/-hBJz2PPIVE)
      - [ ] Object destructuring [Article](https://dmitripavlutin.com/javascript-object-destructuring/)
      - [ ] `Object.keys` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
      - [ ] `Object.getOwnPropertyNames` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames)
@@ -174,7 +179,7 @@
      - [ ] Named functions [Article](https://javascript.info/function-basics#function-naming)
      - [ ] Function expressions [Article](https://javascript.info/function-expressions)
      - [ ] Arrow functions `() => { }` [Article](https://javascript.info/arrow-functions-basics)
-     - [ ] IIFE - Immediately Invoked Function Expressions [Article](https://flaviocopes.com/javascript-iife/)
+     - [ ] IIFE - Immediately Invoked Function Expressions [Article](https://flaviocopes.com/javascript-iife/) [Video](https://youtu.be/3cbiZV4H22c)
    - [ ] `this` keyword [Video](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
    - [ ] ES6 Classes [Video](https://www.youtube.com/watch?v=bq_jZY6Skto&ab_channel=freeCodeCamp.org)
      - [ ] `constructor()`
@@ -191,6 +196,7 @@
 
 
 #### Web page and JavaScript
+[Playlist](https://youtube.com/playlist?list=PLEcLwwG6Ei_g3VbCg-Q6NEF7UCXlyOqec)
    - [ ] `document.getElementById`
    - [ ] `document.getElementsByTagName`
    - [ ] `document.getElementsByClassName`
@@ -234,7 +240,7 @@
 ## Step Up
 
 #### CSS 
-   - [ ] animations 
+   - [ ] animations [Video](https://youtu.be/zHUpx90NerM)
      - [ ] transition property
      - [ ] `@keyframes`
      - [ ] animation property - `name`, `duration`, `timing-function`, `delay`, `iteration-count`, `direction` 
@@ -245,18 +251,20 @@
   
 #### JavaScript
 
-  - [ ] `bind`, `call`, `apply`
+  - [ ] `bind`, `call`, `apply` [Video](https://youtu.be/OSjTmET11OQ)
   - [ ] Scopes
-  - [ ] Hoisting
-  - [ ] Event bubbling
-  - [ ] Event Capturing
-  - [ ] Promises
+  - [ ] Hoisting [Video](https://youtu.be/Fnlnw8uY6jo)
+  - [ ] Temporal Dead Zone [Video](https://youtu.be/BNC6slYCj50)
+  - [ ] Event bubbling [Video](https://youtu.be/aVSf0b1jVKk)
+  - [ ] Event Capturing [Video](https://youtu.be/aVSf0b1jVKk)
+  - [ ] Promises [Video](https://youtu.be/_8gHHBlbziw)
   - [ ] Callbacks
   - [ ] async / await
   - [ ] AJAX (XMLHttpRequest)
-  - [ ] Making API calls using `fetch`, `axios`
-  - [ ] Event loop
-  - [ ] Closures [Article](https://eloquentjavascript.net/03_functions.html#h_hOd+yVxaku)
+  - [ ] Generators
+  - [ ] Making API calls using `fetch`, `axios` [Video](https://youtu.be/6LyagkoRWYA)
+  - [ ] Event loop [Video](https://youtu.be/8aGhZQkoFbQ)
+  - [ ] Closures [Article](https://eloquentjavascript.net/03_functions.html#h_hOd+yVxaku) [Video](https://youtu.be/qikxEIxsXco)
   - [ ] Service Workers
   - [ ] Browser events [Article](https://github.com/shrutikapoor08/blogs/blob/master/JSByte/HowToHandleEvents.MD)
   - [ ] Forms
@@ -267,19 +275,21 @@
 
 #### React
 - [ ] Prerequisites [Article](https://www.taniarascia.com/getting-started-with-react/#prerequisites)
-- [ ] What is React? [Article](https://www.taniarascia.com/getting-started-with-react/#what-is-react)
+- [ ] What is React? [Article](https://www.taniarascia.com/getting-started-with-react/#what-is-react) [Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [ ] Setup and Installation [Article](https://www.taniarascia.com/getting-started-with-react/#setup-and-installation)
-- [ ] JSX: JavaScript + XML [Article](https://www.taniarascia.com/getting-started-with-react/#jsx-javascript--xml)
+- [ ] JSX: JavaScript + XML [Article](https://www.taniarascia.com/getting-started-with-react/#jsx-javascript--xml) [Video](https://youtu.be/BS9g6Z3lbBU)
 - [ ] Functional and Class Components [Article](https://www.taniarascia.com/getting-started-with-react/#components)
 - [ ] Props [Article](https://www.taniarascia.com/getting-started-with-react/#props)
 - [ ] State [Article](https://www.taniarascia.com/getting-started-with-react/#state)
+- [ ] Lifecycle Events
+- [ ] React Hooks [Playlist](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - [ ] Submitting Form [Article](https://www.taniarascia.com/getting-started-with-react/#submitting-form-data)
 - [ ] Pulling in API Data [Article](https://www.taniarascia.com/getting-started-with-react/#pulling-in-api-data)
 - [ ] Building and Deploying your React App [Article](https://www.taniarascia.com/getting-started-with-react/#building-and-deploying-a-react-app)
 - [ ] The Beginner's Guide to React by Kent C. Dodds [Video](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 #### Front end library:
-- [ ] Redux
+- [ ] Redux [Video](https://youtu.be/CVpUuw9XSjY)
 
 #### APIs
 - [ ] REST
