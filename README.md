@@ -289,6 +289,7 @@
 - [ ] The Beginner's Guide to React by Kent C. Dodds [Video](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 #### Front end library:
+- [ ] Recoil [Docs](https://recoiljs.org/docs/introduction/installation)
 - [ ] Redux [Video](https://youtu.be/CVpUuw9XSjY)
 
 #### APIs
