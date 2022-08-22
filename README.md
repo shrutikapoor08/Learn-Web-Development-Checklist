@@ -340,9 +340,9 @@ It is important to have the wireframes to understand the flow of the user's jour
 ## Suggested learning process
 
 1. **SKILLS** Learn the fundamentals from a resource of your choice: 
-   1. HTML
-   1. CSS
-   1. JavaScript.
+   1. [HTML](https://www.scaler.com/topics/html/)
+   1. [CSS](https://www.scaler.com/topics/css/)
+   1. [JavaScript](https://www.scaler.com/topics/javascript/).
 1. **PROJECT** Build a portfolio web page using the skills you learnt so far - JS, HTML, CSS. The web page should have the following: 
     1. Add your name, photo, bio using semantic HTML 
     1. Setup sections for projects. We will fill these projects as we go. The projects will have an image, description and a link. Set these up with [lorem ipsum text](https://loremipsum.io/) for now. 
