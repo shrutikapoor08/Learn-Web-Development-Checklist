@@ -350,7 +350,7 @@ It is important to have the wireframes to understand the flow of the user's jour
 1. **PROJECT**
    1. Add your portfolio to GitHub.
    2. Step Up Assignment: Setup Github pages to host your portfolio. [Here's an instructional video](https://www.youtube.com/watch?v=794yrQWAOD8&ab_channel=iEatWebsites)
-1. **SKILLS** Step up your JS and CSS knowledge
+1. **SKILLS** Step up your JS and [CSS](https://www.interviewbit.com/css-cheat-sheet/) knowledge
 1. **PROJECT** Make your portfolio mobile friendly and responsive.
 1. **PROJECT** Getting ready for job interviews
     1. Practice interview questions on [InterviewCake](https://www.interviewcake.com/). 
